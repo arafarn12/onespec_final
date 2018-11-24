@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) ANTEC EAG750 PRO 750W (80+GOLD)",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/2018111215111332211_1.png?v=32211"
+    },
+    {
+        "id": 2,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE 850W TOUGHPOWER I RGB ( PS-TPI-0850F2FDPE-1 )",
+        "price": 8150,
+        "image": "\/img_master\/product\/medium\/2018102615110131999_1.jpg?v=319991541401383"
+    },
+    {
+        "id": 3,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) FSP 750W HYDRO MX ( 80+ BRONZE )",
+        "price": 3390,
+        "image": "\/img_master\/product\/medium\/2018100114314731758_1.jpg?v=317581541400950"
+    },
+    {
+        "id": 4,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) FSP 650W HYDRO MX ( 80+ BRONZE )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/2018100114255331756_1.jpg?v=317561541400829"
+    },
+    {
+        "id": 5,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR 850W RM850X 2018 ( 80+ GOLD ) ( CP-9020180-NA )",
+        "price": 5490,
+        "image": "\/img_master\/product\/medium\/2018092810052631703_1.jpg?v=317031541393981"
+    },
+    {
+        "id": 6,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX II 1000W GOLD ( SF-1000F14EGBK )",
+        "price": 6090,
+        "image": "\/img_master\/product\/medium\/2018091817535631528_1.jpg?v=315281541401163"
+    },
+    {
+        "id": 7,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX II 1200W GOLD ( SF-1200F14EGBK )",
+        "price": 7490,
+        "image": "\/img_master\/product\/medium\/2018091714015631473_1.jpg?v=314731541401273"
+    },
+    {
+        "id": 8,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX II GOLD 850W ( SF-850F14EG BK )",
+        "price": 4690,
+        "image": "\/img_master\/product\/medium\/2018091713554431472_1.jpg?v=314721541393861"
+    },
+    {
+        "id": 9,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) DEEPCOOL 450W DN (80+)",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/2018082709002131179_1.jpg?v=311791538362479"
+    },
+    {
+        "id": 10,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COOLER MASTER MWE 550 550W ( 80+ ) ( MPW-5502-ACABW )",
+        "price": 1690,
+        "image": "\/img_master\/product\/medium\/2018081009492530906_1.jpg?v=309061537866497"
+    },
+    {
+        "id": 11,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COOLER MASTER 750W CM MWE ( 80+ GOLD ) FULL MODULAR",
+        "price": 3590,
+        "image": "\/img_master\/product\/medium\/20181105103522_30905_24_1.png?v=309051541388932"
+    },
+    {
+        "id": 12,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COOLER MASTER 650W CM MWE ( 80+ GOLD ) FULL MODULAR",
+        "price": 3390,
+        "image": "\/img_master\/product\/medium\/20181105102242_30904_24_1.png?v=309041541388303"
+    },
+    {
+        "id": 13,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COOLER MASTER 550W CM MWE ( 80+ GOLD ) FULL MODULAR",
+        "price": 3190,
+        "image": "\/img_master\/product\/medium\/20181105103051_30903_24_1.png?v=309031541388659"
+    },
+    {
+        "id": 14,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COOLER MASTER 650W CM MWE ( 80+ BRONZE )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20181105142839_30902_24_1.png?v=309021541403073"
+    },
+    {
+        "id": 15,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TOUGHPOWER I RGB PLUS 1200W ( 80+ PLATINUM )",
+        "price": 12550,
+        "image": "\/img_master\/product\/medium\/2018080609452130816_1.jpg?v=308161540975121"
+    },
+    {
+        "id": 16,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) PLENTY SUPER BLACK 700W ( 80+ BRONZE )",
+        "price": 1890,
+        "image": "\/img_master\/product\/medium\/2018073017255530783_4.jpg?v=307831540975271"
+    },
+    {
+        "id": 17,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) DEEPCOOL DQ650-M 650W ( 80+ GOLD )",
+        "price": 3990,
+        "image": "\/img_master\/product\/medium\/20180730133153_30501_24_1.png?v=305011540974662"
+    },
+    {
+        "id": 18,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR AX1600i 1600W ( 80+ TITANIUM ) ( CP-9020087-NA )",
+        "price": 17990,
+        "image": "\/img_master\/product\/medium\/20180717091454_30102_11963954.png?v=301021541212843"
+    },
+    {
+        "id": 19,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) ANTEC HCP-1300 1300W ( 80+ PLATINUM )",
+        "price": 8900,
+        "image": "\/img_master\/product\/medium\/20180730133941_29861_24_1.png?v=298611541212709"
+    },
+    {
+        "id": 20,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM850x 850W WHITE ( 80+ GOLD ) ( CP-9020156-NA )",
+        "price": 6890,
+        "image": "\/img_master\/product\/medium\/20180516171802_1.png?v=297491538362721"
+    },
+    {
+        "id": 21,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER TITANIUM 1300W ( 80+ TITANIUM ) ( SST-ST1300-TI )",
+        "price": 12900,
+        "image": "\/img_master\/product\/medium\/20180730140653_29622_24_1.png?v=296221537780906"
+    },
+    {
+        "id": 22,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER TITANIUM 1100W ( 80+ TITANIUM ) ( SST-ST1100-TI )",
+        "price": 10900,
+        "image": "\/img_master\/product\/medium\/20180730141317_29621_24_1.png?v=296211537780707"
+    },
+    {
+        "id": 23,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) MONSTER 850W (PM850W) 80+",
+        "price": 1190,
+        "image": "\/img_master\/product\/medium\/20181015085833_29366_24_1.png?v=293661539568718"
+    },
+    {
+        "id": 24,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TOUGHPOWER iRGB PLUS 1250W ( 80+ TITANIUM ) ( TPI-1250DPCTEU-T )",
+        "price": 14900,
+        "image": "\/img_master\/product\/medium\/20180730142317_28925_24_1.png?v=289251540539053"
+    },
+    {
+        "id": 25,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR GX-F750 750W ( 80+ GOLD )",
+        "price": 4290,
+        "image": "\/img_master\/product\/medium\/20180730144457_28581_24_1.png?v=285811540975555"
+    },
+    {
+        "id": 26,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR GX-F650 650W ( 80+ GOLD )",
+        "price": 3790,
+        "image": "\/img_master\/product\/medium\/20180730145341_28580_24_1.png?v=285801540975671"
+    },
+    {
+        "id": 27,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR HX1200 1200W ( 80+ PLATINUM ) ( CP-9020140-NA )",
+        "price": 9390,
+        "image": "\/img_master\/product\/medium\/20180723150350_28431_24_1.png?v=284311538362843"
+    },
+    {
+        "id": 28,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) DEEPCOOL DN650 650W ( 80+ )",
+        "price": 1890,
+        "image": "\/img_master\/product\/medium\/20180731101852_28238_24_1.png?v=282381538362880"
+    },
+    {
+        "id": 29,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) DEEPCOOL DN550 550W ( 80+ )",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180731103023_28237_24_1.png?v=282371538362910"
+    },
+    {
+        "id": 30,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) AEROCOOL KCAS-750GM 750W RGB ( 80+ GOLD )",
+        "price": 3490,
+        "image": "\/img_master\/product\/medium\/20180731100458_27634_24_1.png?v=276341541387921"
+    },
+    {
+        "id": 31,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) AEROCOOL AE 550W (80+)",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180731095541_27633_24_1.png?v=276331538362984"
+    },
+    {
+        "id": 32,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) AEROCOOL P7 650W (80+ PLATINUM)",
+        "price": 5490,
+        "image": "\/img_master\/product\/medium\/20180731110451_27630_24_1.png?v=276301537856438"
+    },
+    {
+        "id": 33,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) AEROCOOL AE 650W (80+)",
+        "price": 1890,
+        "image": "\/img_master\/product\/medium\/20180731095050_27624_24_1.png?v=276241538363017"
+    },
+    {
+        "id": 34,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX GOLD 550W ( 80+ GOLD ) ( SF-550F14MG )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180802084156_27273_24_1.png?v=272731538363031"
+    },
+    {
+        "id": 35,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR HX1000 1000W ( 80+ PLATINUM ) ( CP-9020139-NA )",
+        "price": 8090,
+        "image": "\/img_master\/product\/medium\/20180730175628_27126_24_1.png?v=271261538363056"
+    },
+    {
+        "id": 36,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART RGB 700W ( 80+ )",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180731085949_26886_24_1.png?v=268861540973091"
+    },
+    {
+        "id": 37,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART RGB 600W ( 80+ )",
+        "price": 2190,
+        "image": "\/img_master\/product\/medium\/20180731090619_26885_24_1.png?v=268851540973192"
+    },
+    {
+        "id": 38,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) ANTEC VP700P 700W",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20180730173648_26764_24_1.png?v=267641537857124"
+    },
+    {
+        "id": 39,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) FSP RAIDER II 750W ( 80+ SILVER ) ( RA2-750 )",
+        "price": 2890,
+        "image": "\/img_master\/product\/medium\/20180730172922_26756_24_1.png?v=267561541401024"
+    },
+    {
+        "id": 40,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR HX850 850W ( 80+ PLATINUM ) ( CP-9020138-WW )",
+        "price": 6490,
+        "image": "\/img_master\/product\/medium\/20180723144852_26485_24_1.png?v=264851538363161"
+    },
+    {
+        "id": 41,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR TX850M 850W ( 80+ GOLD ) ( CP-9020130-NA )",
+        "price": 4690,
+        "image": "\/img_master\/product\/medium\/20180723143212_25999_24_1.png?v=259991538363183"
+    },
+    {
+        "id": 42,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR TX750M 750W ( 80+ GOLD ) ( CP-9020131-NA )",
+        "price": 3990,
+        "image": "\/img_master\/product\/medium\/20180723144010_25998_24_1.png?v=259981538363209"
+    },
+    {
+        "id": 43,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART PRO 850W ( 80+ BRONZE ) ( SPR-0850FPCBEU-R )",
+        "price": 4490,
+        "image": "\/img_master\/product\/medium\/20180730172256_25071_24_1.png?v=250711540973509"
+    },
+    {
+        "id": 44,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART PRO RGB 750W ( 80+ BRONZE ) ( PS-SPR-0750FPCBxx-R )",
+        "price": 3790,
+        "image": "\/img_master\/product\/medium\/20180730171543_25069_24_1.png?v=250691538363251"
+    },
+    {
+        "id": 45,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART PRO 650W ( 80+ BRONZE )",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180730170541_25067_24_1.png?v=250671540973977"
+    },
+    {
+        "id": 46,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX II GOLD 750W ( 80+ GOLD ) ( SF-750F14EG )",
+        "price": 4190,
+        "image": "\/jib_content\/images\/gallery\/7sfb4.jpg?v=246661538363289"
+    },
+    {
+        "id": 47,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR GX-S750 750W ( 80+ GOLD )",
+        "price": 3790,
+        "image": "\/img_master\/product\/medium\/20180730164943_24608_24_1.png?v=246081540974075"
+    },
+    {
+        "id": 48,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TOUGHPOWER GRAND RGB 750W ( 80+ GOLD ) ( PS-TPG-0750FPCGxx-R )",
+        "price": 4790,
+        "image": "\/img_master\/product\/medium\/20180806090308_24586_24_1.png?v=245861540973844"
+    },
+    {
+        "id": 49,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TOUGHPOWER GRAND RGB 850W ( 80+ GOLD )",
+        "price": 5390,
+        "image": "\/img_master\/product\/medium\/20180730164019_24584_24_1.png?v=245841540973755"
+    },
+    {
+        "id": 50,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR VS450 450W ( 80+ ) ( CP-9020170-NA )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180808110903_23279_21_1.jpg?v=232791538363371"
+    },
+    {
+        "id": 51,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER PLATINUM 850W ( 80+ PLATINUM ) ( SST-ST85F-PT )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180730162302_22611_24_1.png?v=226111537780424"
+    },
+    {
+        "id": 52,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER PLATINUM 750W ( 80+ PLATINUM ) ( SST-ST75F-PT )",
+        "price": 5290,
+        "image": "\/img_master\/product\/medium\/20180730161325_22610_24_1.png?v=226101537859039"
+    },
+    {
+        "id": 53,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER GOLD S 750W ( 80+ GOLD ) ( SST-ST75F-GS )",
+        "price": 4490,
+        "image": "\/img_master\/product\/medium\/20180914095623_22608_24_1.png?v=226081537858992"
+    },
+    {
+        "id": 54,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER PLATINUM 1200W ( 80+ PLATINUM ) ( SST-ST1200-PT )",
+        "price": 8990,
+        "image": "\/img_master\/product\/medium\/20180730160254_22605_24_1.png?v=226051537858097"
+    },
+    {
+        "id": 55,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER TITANIUM 700W ( 80+ TITANIUM ) ( SST-ST70F-TI )",
+        "price": 6100,
+        "image": "\/img_master\/product\/medium\/20180730154747_22189_24_1.png?v=221891537858836"
+    },
+    {
+        "id": 56,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER TITANIUM 800W ( 80+ TITANIUM ) ( SST-ST80F-TI )",
+        "price": 6590,
+        "image": "\/img_master\/product\/medium\/20180730154015_22187_24_1.png?v=221871537859136"
+    },
+    {
+        "id": 57,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR STX750 750W ( 80+ )",
+        "price": 2190,
+        "image": "\/img_master\/product\/medium\/20180721180457_21975_23_1.jpg?v=219751538363438"
+    },
+    {
+        "id": 58,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM650x 650W ( 80+ GOLD ) ( CP-9020178-WW )",
+        "price": 4490,
+        "image": "\/img_master\/product\/medium\/20180910105719_21817_24_1.png?v=218171538363461"
+    },
+    {
+        "id": 59,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM1000x 1000W ( 80+ GOLD ) ( CP-9020094-AU )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180806091134_21814_24_1.png?v=218141537857468"
+    },
+    {
+        "id": 60,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR CX650M 650W ( 80+ BRONZE ) ( CP-9020103-NA )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20180723125230_21419_24_1.png?v=214191538363501"
+    },
+    {
+        "id": 61,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM1000i 1000W ( 80+ GOLD ) ( CP-9020084-NA )",
+        "price": 7190,
+        "image": "\/img_master\/product\/medium\/20180723131028_21242_24_1.png?v=212421538363526"
+    },
+    {
+        "id": 62,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE ESSENTIAL 500W ( 80+ ) ( SST-ST50F-ES230 )",
+        "price": 1650,
+        "image": "\/img_master\/product\/medium\/20180730153207_21203_24_1.png?v=212031537858248"
+    },
+    {
+        "id": 63,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER PLUS 600W ( 80+ BRONZE ) ( SST-ST60F-PB )",
+        "price": 3190,
+        "image": "\/img_master\/product\/medium\/20180914094508_21200_24_1.png?v=212001537778951"
+    },
+    {
+        "id": 64,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SILVERSTONE STRIDER PLUS 700W ( 80+ BRONZE ) ( SST-ST70F-PB )",
+        "price": 3590,
+        "image": "\/img_master\/product\/medium\/20180730151745_21193_24_1.png?v=211931537779164"
+    },
+    {
+        "id": 65,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) SUPER FLOWER LEADEX GOLD 550W ( 80+ GOLD ) ( SF-550F14MG )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180730152511_21113_24_1.png?v=211131537781215"
+    },
+    {
+        "id": 66,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TR2 S 650W ( 80+ ) ( TRS-0650P-2 )",
+        "price": 2090,
+        "image": "\/img_master\/product\/medium\/20180730150739_20959_24_1.png?v=209591540972550"
+    },
+    {
+        "id": 67,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR HX850i 850W ( 80+ PLATINUM ) ( CP-9020073-NA )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180723140754_20795_24_2.png?v=207951538363590"
+    },
+    {
+        "id": 68,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR HX1000i 1000W ( 80+ PLATINUM ) ( CP-9020074-NA )",
+        "price": 8490,
+        "image": "\/img_master\/product\/medium\/20180723142340_20782_24_2.png?v=207821538363617"
+    },
+    {
+        "id": 69,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE TR2 S 550W ( 80+ ) ( TRS-0550P-2 )",
+        "price": 1790,
+        "image": "\/img_master\/product\/medium\/20180730150110_20663_24_1.png?v=206631540972794"
+    },
+    {
+        "id": 70,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM750X 750W ( 80+ GOLD )",
+        "price": 4990,
+        "image": "\/img_master\/product\/medium\/20180723132052_20236_24_1.png?v=202361540972690"
+    },
+    {
+        "id": 71,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM750i 750W ( 80+ GOLD ) ( CP-9020082-NA )",
+        "price": 5290,
+        "image": "\/img_master\/product\/medium\/20180723135206_20051_24_1.png?v=200511538363662"
+    },
+    {
+        "id": 72,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR RM850i 850W ( 80+ GOLD ) ( CP-9020083-NA )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180723140014_20037_24_1.png?v=200371537857653"
+    },
+    {
+        "id": 73,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR CX750M 750W ( 80+ BRONZE ) ( CP-9020061-NA )",
+        "price": 3390,
+        "image": "\/img_master\/product\/medium\/20180802085517_19437_24_1.png?v=194371538363696"
+    },
+    {
+        "id": 74,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR STX650 650W ( 80+ )",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20180721180228_18456_23_1.jpg?v=184561538363723"
+    },
+    {
+        "id": 75,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) COUGAR STX550 550W ( 80+ )",
+        "price": 1750,
+        "image": "\/img_master\/product\/medium\/20180721180302_18455_23_1.jpg?v=184551538363738"
+    },
+    {
+        "id": 76,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) FSP AURUM PT 1200W ( 80+ PLATINUM ) ( PT-1200FM )",
+        "price": 7490,
+        "image": "\/img_master\/product\/medium\/20180806091649_17003_24_1.png?v=170031540972295"
+    },
+    {
+        "id": 77,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART MODULAR 650W ( 80+ BRONZE )",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/20180723132906_14424_24_1.png?v=144241540972195"
+    },
+    {
+        "id": 78,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) THERMALTAKE SMART MODULAR 750W ( 80+ BRONZE )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180723125950_14423_24_1.png?v=144231541212354"
+    },
+    {
+        "id": 79,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) PLENTY ULTRA ATX530W",
+        "price": 490,
+        "image": "\/img_master\/product\/medium\/20181004161153_13692_24_1.png?v=136921538644337"
+    },
+    {
+        "id": 80,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) PLENTY SUPER BLACK 3 550W",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/20181004160518_13689_24_1.png?v=136891538643962"
+    },
+    {
+        "id": 81,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR AX860i 860W ( 80+ PLATINUM ) ( CP-9020037-NA )",
+        "price": 8890,
+        "image": "\/img_master\/product\/medium\/20180723141617_12312_24_1.png?v=123121538363838"
+    },
+    {
+        "id": 82,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) CORSAIR VS650 650W ( 80+ ) ( CP-9020172-NA )",
+        "price": 2160,
+        "image": "\/img_master\/product\/medium\/20180808133653_11585_21_1.jpg?v=115851538363867"
+    },
+    {
+        "id": 83,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) DELUX V6 550W",
+        "price": 990,
+        "image": "\/img_master\/product\/medium\/20180716133703_8061_11963954.png?v=80611537770841"
+    },
+    {
+        "id": 84,
+        "name": "POWER SUPPLY (\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e08\u0e48\u0e32\u0e22\u0e44\u0e1f) MONSTER PM550W 550W",
+        "price": 500,
+        "image": "\/img_master\/product\/medium\/20170803132942_1.png?v=54111537772796"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GALAX GAMER V SSD",
+        "price": 890,
+        "image": "\/img_master\/product\/medium\/2018110110391132071_1.png?v=320711542245865"
+    },
+    {
+        "id": 2,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GIGABYTE ( GP-GSTFS31240GNTD )",
+        "price": 2090,
+        "image": "\/img_master\/product\/medium\/2018101512065631879_1.jpg?v=318791542245865"
+    },
+    {
+        "id": 3,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GIGABYTE ( GP-GSTFS31120GNTD )",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/2018101509542431874_1.jpg?v=318741542245865"
+    },
+    {
+        "id": 4,
+        "name": "2 TB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SEAGATE BARRACUDA ( STGS2000401 )",
+        "price": 17900,
+        "image": "\/img_master\/product\/medium\/2018101213130131861_1.jpg?v=318611542245865"
+    },
+    {
+        "id": 5,
+        "name": "1 TB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SEAGATE BARRACUDA ( STGS1000401 )",
+        "price": 8690,
+        "image": "\/img_master\/product\/medium\/2018101213125231860_1.jpg?v=318601542245865"
+    },
+    {
+        "id": 6,
+        "name": "500 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SEAGATE BARRACUDA ( STGS500401 )",
+        "price": 4090,
+        "image": "\/img_master\/product\/medium\/2018101213124231859_1.jpg?v=318591542245865"
+    },
+    {
+        "id": 7,
+        "name": "250 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SEAGATE BARRACUDA ( STGS250401 )",
+        "price": 2090,
+        "image": "\/img_master\/product\/medium\/2018101211325731856_1.jpg?v=318561542245865"
+    },
+    {
+        "id": 8,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GALAX ONE Series",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/2018082316273031140_1.jpg?v=311401542245865"
+    },
+    {
+        "id": 9,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) PIONEER APS-SL2 ( APS-SL2-120GB )",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/20180719090428_30541_21_1.jpg?v=305411542245865"
+    },
+    {
+        "id": 10,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON UV500 ( SUV500\/240G )",
+        "price": 2250,
+        "image": "\/img_master\/product\/medium\/20180719090639_29804_21_1.jpg?v=298041542245865"
+    },
+    {
+        "id": 11,
+        "name": "1 TB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SAMSUNG SAMSUNG 860 EVO ( MZ-76E1T0BW )",
+        "price": 9990,
+        "image": "\/img_master\/product\/medium\/20180719091323_29177_21_1.jpg?v=291771542245865"
+    },
+    {
+        "id": 12,
+        "name": "500 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SAMSUNG 860 EVO ( MZ-76E500BW )",
+        "price": 4890,
+        "image": "\/img_master\/product\/medium\/20180719092459_28745_21_1.jpg?v=287451542245865"
+    },
+    {
+        "id": 13,
+        "name": "1 TB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) WD BLUE ( WDS100T2B0A )",
+        "price": 6590,
+        "image": "\/img_master\/product\/medium\/20180913140627_28657_21_1.jpg?v=286571542245865"
+    },
+    {
+        "id": 14,
+        "name": "250 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SAMSUNG 860 EVO ( MZ-76E250BW )",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20180719093413_28641_21_1.jpg?v=286411542245865"
+    },
+    {
+        "id": 15,
+        "name": "480 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA SU650 ( ASU650SS-480GT-C )",
+        "price": 5290,
+        "image": "\/img_master\/product\/medium\/20180719093600_28439_21_1.jpg?v=284391542245865"
+    },
+    {
+        "id": 16,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA SU650 ( ASU650SS-240GT-C )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20180719093633_28438_21_1.jpg?v=284381542245865"
+    },
+    {
+        "id": 17,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA SU650 (ASU650SS-120GT-C)",
+        "price": 890,
+        "image": "\/img_master\/product\/medium\/20180719093656_28437_21_1.jpg?v=284371542245865"
+    },
+    {
+        "id": 18,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SANDISK SSD PLUS ( SDSSDA-120G-G27 )",
+        "price": 990,
+        "image": "\/img_master\/product\/medium\/20180719093749_28370_21_1.jpg?v=283701542245865"
+    },
+    {
+        "id": 19,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) WD GREEN ( WDS120G2G0A )",
+        "price": 890,
+        "image": "\/img_master\/product\/medium\/20180725171524_27976_24_1.png?v=279761542245865"
+    },
+    {
+        "id": 20,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) WD GREEN ( WDSS240G2G0A )",
+        "price": 1490,
+        "image": "\/img_master\/product\/medium\/20180719094222_27975_21_1.jpg?v=279751542245865"
+    },
+    {
+        "id": 21,
+        "name": "256 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) PLEXTOR S3C ( PX-256S3C )",
+        "price": 1650,
+        "image": "\/img_master\/product\/medium\/20180719094532_27851_21_1.jpg?v=278511542245865"
+    },
+    {
+        "id": 22,
+        "name": "250 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) WD BLUE ( WDS250G2B0A )",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20180719095202_27423_21_1.jpg?v=274231542245865"
+    },
+    {
+        "id": 23,
+        "name": "500 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) WD BLUE ( WDS500G2B0A )",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180913141023_27060_21_1.jpg?v=270601542245865"
+    },
+    {
+        "id": 24,
+        "name": "128 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) PLEXTOR S3C ( PX-128S3C )",
+        "price": 990,
+        "image": "\/img_master\/product\/medium\/20180719112633_26901_21_1.jpg?v=269011542245865"
+    },
+    {
+        "id": 25,
+        "name": "960 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA XPG SX950 ( ASX950SS-960GM-C )",
+        "price": 14900,
+        "image": "\/img_master\/product\/medium\/20180719095956_26098_21_1.jpg?v=260981542245865"
+    },
+    {
+        "id": 26,
+        "name": "480 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA XPG SX950 ( ASX950SS-480GM-C )",
+        "price": 8690,
+        "image": "\/img_master\/product\/medium\/20180719100013_26097_21_1.jpg?v=260971542245865"
+    },
+    {
+        "id": 27,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) ADATA XPG SX950 ( ASX950SS-240GM-C )",
+        "price": 4790,
+        "image": "\/img_master\/product\/medium\/20180719100026_26092_21_1.jpg?v=260921542245865"
+    },
+    {
+        "id": 28,
+        "name": "480 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON A400 ( SA400S37\/480G )",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/20180719100943_25785_21_1.jpg?v=257851542245865"
+    },
+    {
+        "id": 29,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON A400 ( SA400S37\/120G )",
+        "price": 950,
+        "image": "\/img_master\/product\/medium\/20180808143255_25747_24_1.png?v=257471542245865"
+    },
+    {
+        "id": 30,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON A400 ( SA400S37\/240G )",
+        "price": 1490,
+        "image": "\/img_master\/product\/medium\/20180719101052_25708_21_1.jpg?v=257081542245865"
+    },
+    {
+        "id": 31,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) CORSAIR LE200 SATA3 ( CSSD-F120GBLE200 )",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/20180719101542_24531_21_1.jpg?v=245311542245865"
+    },
+    {
+        "id": 32,
+        "name": "960 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SANDISK PLUS 2 ( SDSSDA-960G-G26 )",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180719101951_24368_21_1.jpg?v=243681542245865"
+    },
+    {
+        "id": 33,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) APACER AS340 PANTHER",
+        "price": 1430,
+        "image": "\/img_master\/product\/medium\/20180719102010_24282_21_1.jpg?v=242821542245865"
+    },
+    {
+        "id": 34,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) PNY PHANTOM-1 ( SSD7CSPTM1-120-RB )",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180719102536_24122_21_1.jpg?v=241221542245865"
+    },
+    {
+        "id": 35,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) APACER AS340 PANTHER",
+        "price": 920,
+        "image": "\/img_master\/product\/medium\/20180719090041_23949_21_1.jpg?v=239491542245865"
+    },
+    {
+        "id": 36,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) APACER AS681",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180719133540_23948_21_1.jpg?v=239481542245865"
+    },
+    {
+        "id": 37,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GALAX GAMER L ( TGAA1D4M4BG49BNSBCYDXN )",
+        "price": 890,
+        "image": "\/img_master\/product\/medium\/20180719103635_23364_21_1.jpg?v=233641542245865"
+    },
+    {
+        "id": 38,
+        "name": "120 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON UV400 ( SUV400S37\/120G )",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/20180719104737_21934_21_1.jpg?v=219341542245865"
+    },
+    {
+        "id": 39,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON UV400 ( SUV400S37\/240G )",
+        "price": 2190,
+        "image": "\/img_master\/product\/medium\/20180719104909_21933_21_1.jpg?v=219331542245865"
+    },
+    {
+        "id": 40,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) GALAX GAMER L SERIES ( I2LL32DBLM0A )",
+        "price": 1490,
+        "image": "\/img_master\/product\/medium\/20180719110313_19039_21_1.jpg?v=190391542245865"
+    },
+    {
+        "id": 41,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) SANDISK ULTRA II ( SDSSDHII-240G-G25 )",
+        "price": 3200,
+        "image": "\/img_master\/product\/medium\/20180719160940_18792_21_1.jpg?v=187921542245865"
+    },
+    {
+        "id": 42,
+        "name": "240 GB SSD (\u0e40\u0e2d\u0e2a\u0e40\u0e2d\u0e2a\u0e14\u0e35) KINGSTON HyperX SAVAGE ( SHSS37A\/240G )",
+        "price": 3990,
+        "image": "\/img_master\/product\/medium\/20180719161438_18596_21_1.jpg?v=185961542245865"
+    }
+]

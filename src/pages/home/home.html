@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar class="toolbar toolbar-ios" no-border-top="" color="dark">
+    <ion-buttons start="" class="bar-buttons bar-buttons-ios">
+    </ion-buttons>
+    <ion-buttons end="" class="bar-buttons bar-buttons-ios">
+      <div style="color: #f5ce19; font-size: 30px; padding-top: 7px; padding-right: 10px; " (click)="createNew()">
+          <ion-icon name="add-circle"></ion-icon>
+      </div>
+        
+    </ion-buttons>
+    <div class="toolbar-content toolbar-content-ios">
+
+      <ion-title class="title title-ios">
+        <div class="toolbar-title toolbar-title-ios"><img src="assets/onespec/logo.png" width="170"/></div>
+      </ion-title>
+
+    </div>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="one-content">
+  <div style="text-align: center; color: #fff;">
+    <h2>รายการทั้งหมด</h2>
+  </div>
+
+  <ion-list class="onelist">
+    <ion-item *ngFor="let item of loop; let i = index" (click)="loadfileFromID(item)">
+      <div>
+        <h1>{{listname[i]}}</h1>
+      </div>
+
+      สร้างเมื่อ : {{loadTime(item) | date: 'dd/MM/yyyy'}}
+      <ion-thumbnail item-end style="text-align: center">
+        <!--<ion-icon name="md-trash" class="one-icon" style="font-size: 30px;"></ion-icon>-->
+        <img src="assets/onespec/pc.png">
+      </ion-thumbnail>
+    </ion-item>
+  </ion-list>
+</ion-content>

@@ -1,0 +1,394 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            จัดสเปคใหม่
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content class="one-content">
+    <div class="rcorners2">
+        <ion-item style="background-color: #27507d; color: #fff">
+            <ion-label style=" color: #fff">Spec Name</ion-label>
+            <ion-input type="text" #specnameInput value="{{ this.onespecProvider.specname }}" (change)="saveName()"></ion-input>
+        </ion-item>
+        <div style="text-align:center">
+            <div *ngIf="file_edit else fileeditnotfound">
+                <button ion-button small color="secondary" (click)="saveSpec()">
+                    <ion-icon name="save"></ion-icon>
+                    บันทึก
+                </button>
+                <button ion-button small color="danger" (click)="removeFile()">
+                    <ion-icon name="trash"></ion-icon>
+                    ลบ
+                </button>
+                <button ion-button small (click)="createNew()">
+                    <ion-icon name="add"></ion-icon>
+                    สร้างใหม่
+                </button>
+            </div>
+            <ng-template #fileeditnotfound>
+                <button ion-button small color="secondary" (click)="saveSpec()">
+                    <ion-icon name="save"></ion-icon>
+                    บันทึก
+                </button>
+                <button ion-button small (click)="createNew()">
+                    <ion-icon name="add"></ion-icon>
+                    สร้างใหม่
+                </button>
+            </ng-template>
+        </div>
+
+    </div>
+    <div style="text-align:center; color: #fff;">
+        ราคาในขณะนี้
+    </div>
+
+    <div class="one-price">
+
+        <font style="color: #444; font-size: 30px; font-weight: bold;">{{price_now}} บาท</font>
+    </div>
+
+    <div style="padding: 3%">
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="cpu else cpunotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.cpu_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.cpu_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.cpu_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #cpunotFound>
+                <div class="list-col3" (click)="openShowList(0)">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก CPU</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(0)" *ngIf="cpu else cpuSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #cpuSelect>
+                <div class="list-col5" (click)="openShowList(0)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="mainboard else mainboardnotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.mainboard_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.mainboard_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.mainboard_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #mainboardnotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Mainboard</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(1)" *ngIf="mainboard else mainboardSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #mainboardSelect>
+                <div class="list-col5" (click)="openShowList(1)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="vga else vganotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.vga_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.vga_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.vga_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #vganotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก VGA Card</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(2)" *ngIf="vga else vgaSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #vgaSelect>
+                <div class="list-col5" (click)="openShowList(2)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="memory else memorynotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.memory_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.memory_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.memory_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #memorynotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Memory</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(3)" *ngIf="memory else memorySelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #memorySelect>
+                <div class="list-col5" (click)="openShowList(3)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="hdd else hddnotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.hdd_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.hdd_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.hdd_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #hddnotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Hard Disk</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(4)" *ngIf="hdd else hddSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #hddSelect>
+                <div class="list-col5" (click)="openShowList(4)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="ssd else ssdnotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.ssd_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.ssd_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.ssd_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #ssdnotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Solid State Drive</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(5)" *ngIf="ssd else ssdSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #ssdSelect>
+                <div class="list-col5" (click)="openShowList(5)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="psu else psunotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.psu_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.psu_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.psu_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #psunotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Power Supply</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(6)" *ngIf="psu else psuSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #psuSelect>
+                <div class="list-col5" (click)="openShowList(6)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="case else casenotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.case_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.case_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.case_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #casenotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Case</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(7)" *ngIf="case else caseSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #caseSelect>
+                <div class="list-col5" (click)="openShowList(7)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="cpu_cooler else cpu_coolernotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.cpu_cooler_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.cpu_cooler_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.cpu_cooler_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #cpu_coolernotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก CPU Cooler</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(8)" *ngIf="cpu_cooler else cpu_coolerSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #cpu_coolerSelect>
+                <div class="list-col5" (click)="openShowList(8)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+        <div class="row aboutlist">
+            <div class="list-col1"></div>
+            <div class="list-col2"></div>
+            <div class="list-col3-selected" *ngIf="monitor else monitornotFound">
+                <div class="row aboutlist-row">
+                    <div class="aboutlist-row-img">
+                        <ion-img width="50" height="50" src="https://www.jib.co.th{{this.monitor_detail[2]}}"></ion-img>
+
+                    </div>
+                    <div class="aboutlist-row-detail">
+                        <font class="aboutlist-row-detail-font">{{this.monitor_detail[0]}}</font><br>
+                        <strong class="aboutlist-row-detail-strong">ราคา {{this.monitor_detail[1]}} บาท</strong>
+
+                    </div>
+                </div>
+            </div>
+            <ng-template #monitornotFound>
+                <div class="list-col3">
+                    <font class="aboutlist-notfound-text">ยังไม่เลือก Monitor</font>
+                </div>
+            </ng-template>
+            <div class="list-col4"></div>
+            <div class="list-col5" (click)="unsetSelect(9)" *ngIf="monitor else monitorSelect">
+                <ion-icon name="close-circle-outline"></ion-icon>
+            </div>
+            <ng-template #monitorSelect>
+                <div class="list-col5" (click)="openShowList(9)">
+                    <ion-icon ios="ios-menu" md="md-menu"></ion-icon>
+                </div>
+            </ng-template>
+        </div>
+
+
+    </div>
+
+
+    <!--<ion-grid class="aboutlist">
+              <ion-row>
+                <ion-col col-1 style="background-color: #ea6640;">
+                </ion-col>
+                <ion-col col-100>
+                  <h3>เลือก CPU</h3>
+                </ion-col>
+                <ion-col col-18>
+                    <ion-icon name="settings"></ion-icon>
+                </ion-col>
+              </ion-row>
+            </ion-grid>-->
+
+
+
+
+</ion-content>

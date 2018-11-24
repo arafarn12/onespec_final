@@ -1,0 +1,1358 @@
+[
+    {
+        "id": 1,
+        "name": "8GB ( 8GBx1 ) DDR4\/3200 RAM PC  KINGSTON HYPERX PREDATOR RGB ",
+        "price": 2750,
+        "image": "\/img_master\/product\/medium\/2018111311002132217_1.png?v=322171542179310"
+    },
+    {
+        "id": 2,
+        "name": "16GB DDR4\/2666 RAM PC  APACER PANTHER RAGE RGB SILVER",
+        "price": 6490,
+        "image": "\/img_master\/product\/medium\/2018110714235732132_1.png?v=321321542179224"
+    },
+    {
+        "id": 3,
+        "name": "32GB ( 8GBx4 ) DDR4-2666 RAM PC  KINGSTON HYPER-X FURY BLACK ",
+        "price": 11800,
+        "image": "\/img_master\/product\/medium\/2018101809425331906_1.jpg?v=319061542179224"
+    },
+    {
+        "id": 4,
+        "name": "32GB ( 8GBx4 ) DDR4-2666 RAM PC  KINGSTON HYPER-X FURY WHITE (",
+        "price": 11800,
+        "image": "\/img_master\/product\/medium\/2018101809360131905_1.jpg?v=319051542179224"
+    },
+    {
+        "id": 5,
+        "name": "32GB (16GBx2) DDR4\/3200 RAM PC  CORSAIR VENGEANCE PRO RGB BLACK (CMW32GX4M2C3200C16)",
+        "price": 15400,
+        "image": "\/img_master\/product\/medium\/2018101513543231880_1.jpg?v=318801542179310"
+    },
+    {
+        "id": 6,
+        "name": "8GB (8GBx1) DDR4\/2666 RAM PC  CORSAIR VENGEANCE BLACK (CMK8GX4M1A2666C16)",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/2018101509145431872_1.jpg?v=318721542179224"
+    },
+    {
+        "id": 7,
+        "name": "8GB (8GBx1) DDR4\/2666 RAM PC  CORSAIR VENGEANCE RED (CMK8GX4M1A2666C16R)",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/2018101509055731871_1.jpg?v=318711542179224"
+    },
+    {
+        "id": 8,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  GIGABYTE AORUS RGB MEMORY",
+        "price": 8490,
+        "image": "\/img_master\/product\/medium\/20181102142246_31804_21_1.jpg?v=318041542179310"
+    },
+    {
+        "id": 9,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  G.SKILL RIPJAWS V BLUE ( F4-2666C15D-16GVB )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/2018092917084131743_1.jpg?v=317431542179224"
+    },
+    {
+        "id": 10,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  G.SKILL RIPJAWS V SILVER ( F4-2666C15D-16GVS )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/2018092917083731742_1.jpg?v=317421542179224"
+    },
+    {
+        "id": 11,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  G.SKILL RIPJAWS V RED ( F4-2666C15D-16GVR )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/2018092917083431741_1.jpg?v=317411542179224"
+    },
+    {
+        "id": 12,
+        "name": "32GB ( 16GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW32GX4M2C3000C15W)",
+        "price": 14200,
+        "image": "\/img_master\/product\/medium\/2018092909175531724_1.jpg?v=317241542179299"
+    },
+    {
+        "id": 13,
+        "name": "16GB (8GBx2) DDR4\/4000 RAM PC  GALAX HOF II (CL19)",
+        "price": 9290,
+        "image": "\/img_master\/product\/medium\/2018092410584531622_1.jpg?v=316221542179361"
+    },
+    {
+        "id": 14,
+        "name": "16GB ( 16GBx1 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M1A2666C16 )",
+        "price": 5190,
+        "image": "\/img_master\/product\/medium\/2018091717110131494_1.jpg?v=314941542179224"
+    },
+    {
+        "id": 15,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M1A2400C14 )",
+        "price": 5550,
+        "image": "\/img_master\/product\/medium\/2018091717103631493_1.jpg?v=314931542179209"
+    },
+    {
+        "id": 16,
+        "name": "32GB ( 16GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW32GX4M2C3200C16W )",
+        "price": 15400,
+        "image": "\/img_master\/product\/medium\/2018091516165331430_1.jpg?v=314301542179310"
+    },
+    {
+        "id": 17,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FB2K4\/32 )",
+        "price": 11900,
+        "image": "\/img_master\/product\/medium\/2018091514373431423_1.jpg?v=314231542179209"
+    },
+    {
+        "id": 18,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY WHITE ( HX424C15FW2K4\/32 )",
+        "price": 11900,
+        "image": "\/img_master\/product\/medium\/2018091514373131422_1.jpg?v=314221542179209"
+    },
+    {
+        "id": 19,
+        "name": "32GB ( 8GBx4 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY RED ( HX426C16FR2K4\/32 )",
+        "price": 11800,
+        "image": "\/img_master\/product\/medium\/2018091514134231420_1.jpg?v=314201542179224"
+    },
+    {
+        "id": 20,
+        "name": "64GB ( 16GBx4 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW64GX4M4C3200C16W )",
+        "price": 30900,
+        "image": "\/img_master\/product\/medium\/2018091513383431419_1.jpg?v=314191542179310"
+    },
+    {
+        "id": 21,
+        "name": "64GB ( 16GBx4 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW64GX4M4C3200C16 )",
+        "price": 30900,
+        "image": "\/img_master\/product\/medium\/2018091513382931418_1.jpg?v=314181542179310"
+    },
+    {
+        "id": 22,
+        "name": "64GB ( 16GBx4 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW64GX4M4C3000C15W )",
+        "price": 28500,
+        "image": "\/img_master\/product\/medium\/2018091513382431417_1.jpg?v=314171542179299"
+    },
+    {
+        "id": 23,
+        "name": "64GB ( 16GBx4 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW64GX4M4C3000C15 )",
+        "price": 28500,
+        "image": "\/img_master\/product\/medium\/2018091513381631416_1.jpg?v=314161542179299"
+    },
+    {
+        "id": 24,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY WHITE ( HX432C18FW2K2\/16 )",
+        "price": 6690,
+        "image": "\/img_master\/product\/medium\/2018090616275031336_1.jpg?v=313361542179310"
+    },
+    {
+        "id": 25,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY RED ( HX432C18FR2K2\/16 )",
+        "price": 6690,
+        "image": "\/img_master\/product\/medium\/2018090616273231335_1.jpg?v=313351542179310"
+    },
+    {
+        "id": 26,
+        "name": "32GB ( 16GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW32GX4M2C3000C15 )",
+        "price": 14200,
+        "image": "\/img_master\/product\/medium\/2018090616194131333_1.jpg?v=313331542179299"
+    },
+    {
+        "id": 27,
+        "name": "8 GB ( 8GBx1 ) DDR4\/2666 RAM PC  ADATA PREMIER ( AD4U266638G19-R )",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/2018090516081431324_1.jpg?v=313241542179224"
+    },
+    {
+        "id": 28,
+        "name": "4 GB ( 4GBx1 ) DDR4\/2666 RAM PC  ADATA PREMIER ( AD4U2666J4G19-R )",
+        "price": 1360,
+        "image": "\/img_master\/product\/medium\/2018090515513831323_1.jpg?v=313231542179224"
+    },
+    {
+        "id": 29,
+        "name": "16GB ( 16GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY WHITE ( HX432C18FW\/16 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/2018090309583731282_1.jpg?v=312821542179310"
+    },
+    {
+        "id": 30,
+        "name": "4GB ( 4GBx1 ) DDR4\/2666 RAM PC  KINGSTON VALUE RAM ( KVR26N19S6\/4 )",
+        "price": 1390,
+        "image": "\/img_master\/product\/medium\/20181011100314_31223_21_1.jpg?v=312231542179224"
+    },
+    {
+        "id": 31,
+        "name": "32GB ( 16GBx2 ) DDR4\/4000 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK32GX4M2F4000C19 )",
+        "price": 19500,
+        "image": "\/img_master\/product\/medium\/2018082709485731183_1.jpg?v=311831542179361"
+    },
+    {
+        "id": 32,
+        "name": "16GB ( 8GBx2 ) DDR4\/4000 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW16GX4M2K4000C19 )",
+        "price": 15500,
+        "image": "\/img_master\/product\/medium\/2018082709213131181_1.jpg?v=311811542179361"
+    },
+    {
+        "id": 33,
+        "name": "16GB ( 8GBx2 ) DDR4\/3600 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3600C19D-16GTZRB )",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/2018082514191831177_1.jpg?v=311771542179333"
+    },
+    {
+        "id": 34,
+        "name": "4GB ( 4GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY BLACK ( HX426C15FB\/4 )",
+        "price": 1390,
+        "image": "\/img_master\/product\/medium\/2018082015575731034_1.jpg?v=310341542179224"
+    },
+    {
+        "id": 35,
+        "name": "8 GB ( 8GBx1 ) DDR4\/2133 RAM PC  G.SKILL AEGIS DDR4 ( F4-2133C15S-8GIS )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/2018081109013830914_1.jpg?v=309141542179196"
+    },
+    {
+        "id": 36,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW32GX4M4C3000C15W )",
+        "price": 15400,
+        "image": "\/img_master\/product\/medium\/2018080710581330846_1.jpg?v=308461542179299"
+    },
+    {
+        "id": 37,
+        "name": "32GB ( 8GBx4 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW32GX4M4C3200C16W )",
+        "price": 16900,
+        "image": "\/img_master\/product\/medium\/2018080710475930845_1.jpg?v=308451542179310"
+    },
+    {
+        "id": 38,
+        "name": "16GB ( 16GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY RED ( HX432C18FR\/16 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/2018080609564430818_1.jpg?v=308181542179310"
+    },
+    {
+        "id": 39,
+        "name": "32GB ( 8GBx4 ) DDR4\/3200 RAM PC  CORSAIR DOMINATOR PLATINUM SPECIAL EDITION TORQUE ( CMD32GX4M4C3200C14T )",
+        "price": 22900,
+        "image": "\/img_master\/product\/medium\/2018072716002030777_1.jpg?v=307771542179310"
+    },
+    {
+        "id": 40,
+        "name": "32GB ( 8GBx4 ) DDR4\/3466 RAM PC  CORSAIR DOMINATOR PLATINUM SPECIAL EDITION CONTRAST ( CMD32GX4M4C3466C16W )",
+        "price": 23900,
+        "image": "\/img_master\/product\/medium\/2018072714120430771_1.jpg?v=307711542179325"
+    },
+    {
+        "id": 41,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW16GX4M2A2666C16 )",
+        "price": 7290,
+        "image": "\/img_master\/product\/medium\/2018072513322530756_1.jpg?v=307561542179224"
+    },
+    {
+        "id": 42,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW16GX4M2A2666C16W )",
+        "price": 7290,
+        "image": "\/img_master\/product\/medium\/2018072513043430755_1.jpg?v=307551542179224"
+    },
+    {
+        "id": 43,
+        "name": "16GB ( 8GBx2 ) DDR4\/3600 RAM PC  GALAX HALL OF FAME II",
+        "price": 8900,
+        "image": "\/img_master\/product\/medium\/2018072016484630699_1.jpg?v=306991542179333"
+    },
+    {
+        "id": 44,
+        "name": "8GB ( 8GBx1 ) DDR4\/3200 RAM PC  APACER PANTHER RAGE RGB BLACK",
+        "price": 4190,
+        "image": "\/img_master\/product\/medium\/2018071715193830629_1.jpg?v=306291542179310"
+    },
+    {
+        "id": 45,
+        "name": "8GB ( 8GBx1 ) DDR4\/2666 RAM PC  APACER PANTHER RAGE RGB BLACK",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/2018071317323730594_1.jpg?v=305941542179224"
+    },
+    {
+        "id": 46,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY RED ( HX424C15FR2K4\/32 )",
+        "price": 11900,
+        "image": "\/img_master\/product\/medium\/20180718085646_30542_21_1.jpg?v=305421542179209"
+    },
+    {
+        "id": 47,
+        "name": "16GB ( 16GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY RED ( HX426C16FR\/16 )",
+        "price": 5790,
+        "image": "\/img_master\/product\/medium\/20180718085935_30530_21_1.jpg?v=305301542179224"
+    },
+    {
+        "id": 48,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW16GX4M2C3200C16W )",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180718090733_30512_21_1.jpg?v=305121542179310"
+    },
+    {
+        "id": 49,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW32GX4M4C3000C15 )",
+        "price": 15400,
+        "image": "\/img_master\/product\/medium\/20180718091143_30511_21_1.jpg?v=305111542179299"
+    },
+    {
+        "id": 50,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW16GX4M2C3000C15 )",
+        "price": 7490,
+        "image": "\/img_master\/product\/medium\/20180718091708_30510_21_1.jpg?v=305101542179299"
+    },
+    {
+        "id": 51,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB PRO BLACK ( CMW16GX4M2C3200C16 )",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180718092146_30508_21_1.jpg?v=305081542179310"
+    },
+    {
+        "id": 52,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB PRO WHITE ( CMW16GX4M2C3000C15W )",
+        "price": 7490,
+        "image": "\/img_master\/product\/medium\/20180718092410_30507_21_1.jpg?v=305071542179299"
+    },
+    {
+        "id": 53,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  APACER PANTHER RAGE RGB GOLD",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180718093410_30431_21_1.jpg?v=304311542179310"
+    },
+    {
+        "id": 54,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY WHITE ( HX424C15FW\/16 )",
+        "price": 5190,
+        "image": "\/img_master\/product\/medium\/20180718093904_30357_21_1.jpg?v=303571542179209"
+    },
+    {
+        "id": 55,
+        "name": "8GB ( 8GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY WHITE ( HX432C18FW2\/8 )",
+        "price": 3190,
+        "image": "\/img_master\/product\/medium\/20180718094154_30356_21_1.jpg?v=303561542179310"
+    },
+    {
+        "id": 56,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  ADATA SPECTRIX D41 RGB RED ( AX4U3200316G16-DR41 )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/20180725095620_30312_72_1.jpg?v=303121542179310"
+    },
+    {
+        "id": 57,
+        "name": "8GB ( 4GBx2 ) DDR4\/2133 RAM PC  G.SKILL AEGIS DDR4 ( F4-2133C15D-8GIS )",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180718095336_30307_21_1.jpg?v=303071542179196"
+    },
+    {
+        "id": 58,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY RED ( HX424C15FR\/16 )",
+        "price": 5190,
+        "image": "\/img_master\/product\/medium\/20180718095800_30306_21_1.jpg?v=303061542179209"
+    },
+    {
+        "id": 59,
+        "name": "16GB ( 16GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY BLACK ( HX432C18FB\/16 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20181011174203_30305_24_1.png?v=303051542179310"
+    },
+    {
+        "id": 60,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  TEAM T-FORCE DELTA RGB BLACK ( L48230 )",
+        "price": 6390,
+        "image": "\/img_master\/product\/medium\/20180718102653_29998_21_1.jpg?v=299981542179299"
+    },
+    {
+        "id": 61,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  TEAM T-FORCE DELTA RGB BLACK",
+        "price": 3090,
+        "image": "\/img_master\/product\/medium\/20180718103221_29995_21_1.jpg?v=299951542179209"
+    },
+    {
+        "id": 62,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  TEAM T-FORCE DELTA RGB BLACK",
+        "price": 1690,
+        "image": "\/img_master\/product\/medium\/20180718103931_29991_21_1.jpg?v=299911542179209"
+    },
+    {
+        "id": 63,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  TEAM T-FORCE DELTA RGB BLACK ( L416124RG ) ( TF3D416G2400HC1601 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718104021_29987_21_1.jpg?v=299871542179209"
+    },
+    {
+        "id": 64,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  ADATA SPECTRIX D41 RGB BLACK ( AX4U320038G16-DT41 )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/2018071810440929885_1.jpg?v=298851542179310"
+    },
+    {
+        "id": 65,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY BLACK ( HX426C16FB2K2\/16 )",
+        "price": 5790,
+        "image": "\/img_master\/product\/medium\/20180718104703_29849_21_1.jpg?v=298491542179224"
+    },
+    {
+        "id": 66,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  ADATA XPG Z1 ( AX4U320038G16-DRZ1 )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180718105048_29843_21_1.jpg?v=298431542179310"
+    },
+    {
+        "id": 67,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  ADATA XPG Z1 ( AX4U300038G16-DRZ )",
+        "price": 6390,
+        "image": "\/img_master\/product\/medium\/20180718105150_29842_21_1.jpg?v=298421542179299"
+    },
+    {
+        "id": 68,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  ADATA XPG Z1 ( AX4U2400316G16-DRZ )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718105209_29841_21_1.jpg?v=298411542179209"
+    },
+    {
+        "id": 69,
+        "name": "16GB ( 16GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY BLACK ( HX426C16FB\/16 )",
+        "price": 5790,
+        "image": "\/img_master\/product\/medium\/20180718105427_29786_21_1.jpg?v=297861542179224"
+    },
+    {
+        "id": 70,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  SILICON POWER",
+        "price": 1550,
+        "image": "\/img_master\/product\/medium\/2018071811052329777_1.jpg?v=297771542179209"
+    },
+    {
+        "id": 71,
+        "name": "32GB ( 8GBx4 ) DDR4\/2933 RAM PC  KINGSTON HyperX PREDATOR RGB ( HX429C15PB3AK4\/32 )",
+        "price": 16400,
+        "image": "\/img_master\/product\/medium\/20180718110936_29703_21_1.jpg?v=297031542179280"
+    },
+    {
+        "id": 72,
+        "name": "16GB ( 8GBx2 ) DDR4\/2933 RAM PC  KINGSTON HyperX PREDATOR RGB ( HX429C15PB3AK2\/16 )",
+        "price": 8390,
+        "image": "\/img_master\/product\/medium\/20180718111134_29702_21_1.jpg?v=297021542179280"
+    },
+    {
+        "id": 73,
+        "name": "8GB ( 8GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY RED ( HX432C18FR2\/8 )",
+        "price": 3190,
+        "image": "\/img_master\/product\/medium\/20180718111654_29689_21_1.jpg?v=296891542179310"
+    },
+    {
+        "id": 74,
+        "name": "8GB ( 8GBx1 ) DDR4\/3200 RAM PC  KINGSTON HyperX FURY BLACK ( HX432C18FB2\/8 )",
+        "price": 3190,
+        "image": "\/img_master\/product\/medium\/20180718111854_29688_21_1.jpg?v=296881542179310"
+    },
+    {
+        "id": 75,
+        "name": "8GB ( 8GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY RED ( HX426C16FR2\/8 )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/2018071811215429687_1.jpg?v=296871542179224"
+    },
+    {
+        "id": 76,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY WHITE ( HX426C16FW2K2\/16 )",
+        "price": 5790,
+        "image": "\/img_master\/product\/medium\/20180718112611_29676_21_1.jpg?v=296761542179224"
+    },
+    {
+        "id": 77,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY RED ( HX426C16FR2K2\/16 )",
+        "price": 5790,
+        "image": "\/img_master\/product\/medium\/20181109092904_29675_24_1.png?v=296751542179224"
+    },
+    {
+        "id": 78,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK8GX4M1A2400C14R )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180718113254_29656_21_1.jpg?v=296561542179209"
+    },
+    {
+        "id": 79,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK8GX4M1A2400C14 )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180718113418_29655_21_1.jpg?v=296551542179209"
+    },
+    {
+        "id": 80,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  KINGSTON HyperX PREDATOR ( HX430C15PB3K4\/32 )",
+        "price": 14500,
+        "image": "\/img_master\/product\/medium\/20180718113656_29330_21_1.jpg?v=293301542179299"
+    },
+    {
+        "id": 81,
+        "name": "8GB ( 8GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY WHITE ( HX426C16FW2\/8 )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20181020085320_29329_24_1.png?v=293291542179224"
+    },
+    {
+        "id": 82,
+        "name": "8GB ( 4GBx2 ) DDR4\/3200 RAM PC  KINGSTON HyperX PREDATOR ( HX432C16PB3K2\/8 )",
+        "price": 3890,
+        "image": "\/img_master\/product\/medium\/20180718115410_29326_21_1.jpg?v=293261542179310"
+    },
+    {
+        "id": 83,
+        "name": "8GB ( 4GBx2 ) DDR4\/3000 RAM PC  KINGSTON HyperX PREDATOR ( HX430C15PB3K2\/8 )",
+        "price": 3550,
+        "image": "\/img_master\/product\/medium\/20180718115458_29325_21_1.jpg?v=293251542179299"
+    },
+    {
+        "id": 84,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  GALAX GAMER III RGB",
+        "price": 3590,
+        "image": "\/img_master\/product\/medium\/20180718130818_29229_21_1.jpg?v=292291542179209"
+    },
+    {
+        "id": 85,
+        "name": "64GB ( 16GBx4 ) DDR4\/3200 RAM PC  CORSAIR DOMINATOR PLATINUM ( CMD64GX4M4C3200C16 )",
+        "price": 32900,
+        "image": "\/img_master\/product\/medium\/20180718131031_29215_21_1.jpg?v=292151542179310"
+    },
+    {
+        "id": 86,
+        "name": "8GB ( 8GBx1 ) DDR4\/3000 RAM PC  KINGSTON HyperX PREDATOR ( HX430C15PB3\/8 )",
+        "price": 3450,
+        "image": "\/img_master\/product\/medium\/20180718131220_28895_21_1.jpg?v=288951542179299"
+    },
+    {
+        "id": 87,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  KINGSTON HyperX PREDATOR ( HX432C16PB3K2\/16 )",
+        "price": 6590,
+        "image": "\/img_master\/product\/medium\/20180718131426_28893_21_1.jpg?v=288931542179310"
+    },
+    {
+        "id": 88,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL SNIPER X CLASSIC CAMO ( F4-2400C17D-16GSXF )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180718132158_28891_21_1.jpg?v=288911542179209"
+    },
+    {
+        "id": 89,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL SNIPER X DIGITAL CAMO ( F4-2400C17D-16GSXK )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180718132403_28890_21_1.jpg?v=288901542179209"
+    },
+    {
+        "id": 90,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL SNIPER X URBAN CAMO ( F4-2400C17D-16GSXW )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180718132524_28889_21_1.jpg?v=288891542179209"
+    },
+    {
+        "id": 91,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  SILICON POWER",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20180718132856_28875_21_1.jpg?v=288751542179209"
+    },
+    {
+        "id": 92,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  TEAM ELITE PLUS RED&BLACK ( L48224ERB ) ( TPRD416G2400HC16DC01 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718133518_28862_21_1.jpg?v=288621542179209"
+    },
+    {
+        "id": 93,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  TEAM ELITE PLUS GOLD&BLACK ( L48224EBG ) ( TPD416G2400HC16DC01 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718133712_28861_21_1.jpg?v=288611542179209"
+    },
+    {
+        "id": 94,
+        "name": "4GB ( 4GBx1 ) DDR3\/1600 RAM PC  ADATA PREMIER ( AD3U1600W4G11R )",
+        "price": 1290,
+        "image": "\/img_master\/product\/medium\/20180718091445_28651_21_1.jpg?v=286511542179110"
+    },
+    {
+        "id": 95,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  APACER DDR4 DESKTOP MEMORY",
+        "price": 1950,
+        "image": "\/img_master\/product\/medium\/20180718133641_28486_21_1.jpg?v=284861542179209"
+    },
+    {
+        "id": 96,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  TEAM DELTA D4 BLUE LED ( L48224TBU ) ( TDTBD416G2400HC16DC01 )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718132650_28440_21_1.jpg?v=284401542179209"
+    },
+    {
+        "id": 97,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LPX WHITE ( CMK16GX4M2B3200C16W )",
+        "price": 7390,
+        "image": "\/img_master\/product\/medium\/20180718163030_28436_21_1.jpg?v=284361542179310"
+    },
+    {
+        "id": 98,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  G.SKILL AEGIS DDR4 ( F4-2400C15S-4GIS )",
+        "price": 1690,
+        "image": "\/img_master\/product\/medium\/20180718132237_28382_21_1.jpg?v=283821542179209"
+    },
+    {
+        "id": 99,
+        "name": "8GB ( 4GBx2 ) DDR4\/2400 RAM PC  G.SKILL AEGIS DDR4 ( F4-2400C15D-8GIS )",
+        "price": 2850,
+        "image": "\/img_master\/product\/medium\/20180718132124_28369_21_1.jpg?v=283691542179209"
+    },
+    {
+        "id": 100,
+        "name": "8GB ( 4GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK8GX4M2A2666C16 )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180718134739_28359_21_1.jpg?v=283591542179224"
+    },
+    {
+        "id": 101,
+        "name": "16GB ( 16GBx1 ) DDR4\/2666 RAM PC  KINGSTON VALUE RAM ( KVR26N19D8\/16 )",
+        "price": 5390,
+        "image": "\/img_master\/product\/medium\/20180718134906_28278_21_1.jpg?v=282781542179224"
+    },
+    {
+        "id": 102,
+        "name": "8GB ( 8GBx1 ) DDR4\/2666 RAM PC  KINGSTON VALUE RAM ( KVR26N19S8\/8 )",
+        "price": 2650,
+        "image": "\/img_master\/product\/medium\/20180718135204_28272_21_1.jpg?v=282721542179224"
+    },
+    {
+        "id": 103,
+        "name": "8GB ( 4GBx2 ) DDR3\/2800 RAM PC  TEAM XTREEM D3",
+        "price": 8990,
+        "image": "\/img_master\/product\/medium\/20180718170248_28242_21_1.jpg?v=282421542179154"
+    },
+    {
+        "id": 104,
+        "name": "8GB ( 4GBx2 ) DDR3\/1866 RAM PC  TEAM DARK BLACK",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180718112505_28241_21_1.jpg?v=282411542178994"
+    },
+    {
+        "id": 105,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  TEAM DARK WHITE",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180718093802_28239_21_1.jpg?v=282391542179110"
+    },
+    {
+        "id": 106,
+        "name": "16GB ( 8GBx2 ) DDR4\/2800 RAM PC  APACER COMMANDO",
+        "price": 6490,
+        "image": "\/img_master\/product\/medium\/20181022143456_28188_24_1.png?v=281881542179299"
+    },
+    {
+        "id": 107,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  KINGSTON VALUE RAM ( KVR24N17S6\/4 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180718132010_28018_21_1.jpg?v=280181542179209"
+    },
+    {
+        "id": 108,
+        "name": "8GB ( 8GBx1 , 16 chips ) DDR3\/1600 RAM PC  APACER",
+        "price": 1950,
+        "image": "\/img_master\/product\/medium\/20180718092940_27992_21_1.jpg?v=279921542179110"
+    },
+    {
+        "id": 109,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  APACER PANTHER RAGE",
+        "price": 6290,
+        "image": "\/img_master\/product\/medium\/20180718131736_27931_21_1.jpg?v=279311542179209"
+    },
+    {
+        "id": 110,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  ADATA PREMIER ( AD4U2400J4G17-R )",
+        "price": 1290,
+        "image": "\/img_master\/product\/medium\/20171106094907_1.jpg?v=278461542179209"
+    },
+    {
+        "id": 111,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  TEAM DELTA D4 BLUE LED",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180718172004_27813_21_1.jpg?v=278131542179209"
+    },
+    {
+        "id": 112,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  TEAM DELTA D4 RED LED",
+        "price": 3590,
+        "image": "\/img_master\/product\/medium\/20180718171642_27812_21_1.jpg?v=278121542179209"
+    },
+    {
+        "id": 113,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK16GX4M2A2666C16R )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718145803_27688_21_1.jpg?v=276881542179224"
+    },
+    {
+        "id": 114,
+        "name": "16GB ( 8GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M2A2666C16 )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718145726_27687_21_1.jpg?v=276871542179224"
+    },
+    {
+        "id": 115,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  TEAM ELITE PLUS GOLD&BLACK",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180718134803_27612_21_1.jpg?v=276121542179209"
+    },
+    {
+        "id": 116,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  TEAM ELITE PLUS RED&BLACK",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180718134634_27611_21_1.jpg?v=276111542179209"
+    },
+    {
+        "id": 117,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL FLARE X (for AMD) BLACK ( F4-3200C14D-16GFX )",
+        "price": 9290,
+        "image": "\/img_master\/product\/medium\/20180718162836_27502_21_1.jpg?v=275021542179310"
+    },
+    {
+        "id": 118,
+        "name": "8GB ( 8GBx1 ) DDR4\/2133 RAM PC  APACER DDR4 DESKTOP MEMORY",
+        "price": 2490,
+        "image": "\/img_master\/product\/medium\/20180718160521_27495_21_1.jpg?v=274951542179196"
+    },
+    {
+        "id": 119,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  CORSAIR VALUE SELECT ( CMV4GX4M1A2400C16 )",
+        "price": 1890,
+        "image": "\/img_master\/product\/medium\/20180718131535_27452_21_1.jpg?v=274521542179209"
+    },
+    {
+        "id": 120,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE RGB WHITE ( CMR16GX4M2C3200C16W )",
+        "price": 8390,
+        "image": "\/img_master\/product\/medium\/20180724141041_27432_24_2.png?v=274321542179310"
+    },
+    {
+        "id": 121,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB WHITE ( CMR16GX4M2C3000C15W )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/20180724134128_27380_24_2.png?v=273801542179299"
+    },
+    {
+        "id": 122,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  ADATA PREMIER ( AD4U240038G17-R )",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180718134241_27175_21_1.jpg?v=271751542179209"
+    },
+    {
+        "id": 123,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  TEAM ELITE",
+        "price": 2890,
+        "image": "\/img_master\/product\/medium\/20180718131356_27085_21_1.jpg?v=270851542179209"
+    },
+    {
+        "id": 124,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  TEAM ELITE",
+        "price": 2890,
+        "image": "\/img_master\/product\/medium\/20180718131337_27073_21_1.jpg?v=270731542179209"
+    },
+    {
+        "id": 125,
+        "name": "8GB ( 8GBx1 ) DDR4\/2666 RAM PC  KINGSTON HyperX FURY BLACK ( HX426C16FB2\/8 )",
+        "price": 2790,
+        "image": "\/img_master\/product\/medium\/20180924160841_26949_24_1.png?v=269491542179224"
+    },
+    {
+        "id": 126,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  APACER PANTHER RAGE",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/20180718131045_26803_21_1.jpg?v=268031542179209"
+    },
+    {
+        "id": 127,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  APACER PANTHER RAGE",
+        "price": 1650,
+        "image": "\/img_master\/product\/medium\/20180718130859_26771_21_1.jpg?v=267711542179209"
+    },
+    {
+        "id": 128,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  KINGSTON HyperX PREDATOR ( HX430C15PB3K2\/16 )",
+        "price": 6490,
+        "image": "\/img_master\/product\/medium\/20180718150302_26755_21_1.jpg?v=267551542179299"
+    },
+    {
+        "id": 129,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX WHITE ( CMK16GX4M2B3000C15W )",
+        "price": 6890,
+        "image": "\/img_master\/product\/medium\/20180917142913_26409_24_1.png?v=264091542179299"
+    },
+    {
+        "id": 130,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  APACER PANTHER",
+        "price": 1390,
+        "image": "\/img_master\/product\/medium\/20180718145500_26157_21_1.jpg?v=261571542179209"
+    },
+    {
+        "id": 131,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY RED ( HX424C15FR2\/8 )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180917165103_26151_24_1.png?v=261511542179209"
+    },
+    {
+        "id": 132,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY WHITE ( HX424C15FW2\/8 )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180718161817_26093_21_1.jpg?v=260931542179196"
+    },
+    {
+        "id": 133,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY RED ( HX424C15FR2K2\/16 )",
+        "price": 5490,
+        "image": "\/img_master\/product\/medium\/20180917165455_26073_24_1.png?v=260731542179209"
+    },
+    {
+        "id": 134,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY WHITE ( HX424C15FW2K2\/16 )",
+        "price": 5490,
+        "image": "\/img_master\/product\/medium\/20180718145248_26072_21_1.jpg?v=260721542179209"
+    },
+    {
+        "id": 135,
+        "name": "32GB ( 16GBx2 ) DDR4\/3200 RAM PC  CORSAIR DOMINATOR PLATINUM ( CMD32GX4M2C3200C16 )",
+        "price": 16900,
+        "image": "\/img_master\/product\/medium\/20181019152433_25741_24_3.png?v=257411542179310"
+    },
+    {
+        "id": 136,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FB\/16 )",
+        "price": 5190,
+        "image": "\/img_master\/product\/medium\/20180924141724_25737_24_1.png?v=257371542179209"
+    },
+    {
+        "id": 137,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z BLACK&WHITE ( F4-3200C16D-16GTZKW )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180718164747_25697_21_1.jpg?v=256971542179310"
+    },
+    {
+        "id": 138,
+        "name": "16GB ( 8GBx2 ) DDR4\/4133 RAM PC  G.SKILL TRIDENT Z RGB ( F4-4133C19D-16GTZR )",
+        "price": 11600,
+        "image": "\/img_master\/product\/medium\/20180718170037_25655_21_1.jpg?v=256551542179368"
+    },
+    {
+        "id": 139,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB BLACK ( CMR16GX4M2C3000C15 )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/20180724134454_25432_24_1.png?v=254321542179299"
+    },
+    {
+        "id": 140,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE RGB BLACK ( CMR32GX4M4C3000C15 )",
+        "price": 16400,
+        "image": "\/img_master\/product\/medium\/20180917142419_25431_24_1.png?v=254311542179299"
+    },
+    {
+        "id": 141,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3000C16Q-32GTZR )",
+        "price": 13900,
+        "image": "\/img_master\/product\/medium\/20180718155742_25430_21_1.jpg?v=254301542179299"
+    },
+    {
+        "id": 142,
+        "name": "4GB ( 4GBx1 ) DDR4\/2133 RAM PC  APACER BLACK PANTHER",
+        "price": 1340,
+        "image": "\/img_master\/product\/medium\/20181003101810_25426_24_1.png?v=254261542179196"
+    },
+    {
+        "id": 143,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3200C16D-16GTZR )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/20180718164547_25388_21_1.jpg?v=253881542179310"
+    },
+    {
+        "id": 144,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  APACER PANTHER",
+        "price": 2490,
+        "image": "\/img_master\/product\/medium\/20180718144750_25362_21_1.jpg?v=253621542179209"
+    },
+    {
+        "id": 145,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  G.SKILL FLARE X (for AMD) RED ( F4-2400C15Q-32GFXR )",
+        "price": 13900,
+        "image": "\/img_master\/product\/medium\/20180718144154_25245_21_1.jpg?v=252451542179209"
+    },
+    {
+        "id": 146,
+        "name": "32GB ( 8GBx4 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3000C15Q-32GTZR )",
+        "price": 14900,
+        "image": "\/img_master\/product\/medium\/20180718155729_25244_21_1.jpg?v=252441542179299"
+    },
+    {
+        "id": 147,
+        "name": "32GB ( 8GBx4 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3200C16Q-32GTZR )",
+        "price": 15900,
+        "image": "\/img_master\/product\/medium\/20180718164532_25243_21_1.jpg?v=252431542179310"
+    },
+    {
+        "id": 148,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL FLARE X (for AMD) RED ( F4-2400C15D-16GFXR )",
+        "price": 5890,
+        "image": "\/img_master\/product\/medium\/20180718143740_25238_21_1.jpg?v=252381542179209"
+    },
+    {
+        "id": 149,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL FLARE X (for AMD) BLACK ( F4-2400C15D-16GFX )",
+        "price": 5890,
+        "image": "\/img_master\/product\/medium\/20180718143421_25225_21_1.jpg?v=252251542179209"
+    },
+    {
+        "id": 150,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL TRIDENT Z RGB ( F4-2400C15D-16GTZR )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180718143153_24907_21_1.jpg?v=249071542179209"
+    },
+    {
+        "id": 151,
+        "name": "4GB ( 4GBx1 ) DDR4\/2133 RAM PC  G.SKILL AEGIS DDR4 ( F4-2133C15S-4GIS )",
+        "price": 1590,
+        "image": "\/img_master\/product\/medium\/20180718161730_24812_21_1.jpg?v=248121542179196"
+    },
+    {
+        "id": 152,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3000C16D-16GTZR )",
+        "price": 7390,
+        "image": "\/img_master\/product\/medium\/20180718155439_24804_21_1.jpg?v=248041542179299"
+    },
+    {
+        "id": 153,
+        "name": "8GB ( 8GBx1 ) DDR4\/2133 RAM PC  APACER PANTHER",
+        "price": 2490,
+        "image": "\/img_master\/product\/medium\/20180918170255_24799_24_1.png?v=247991542179196"
+    },
+    {
+        "id": 154,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z RGB ( F4-3000C15D-16GTZR )",
+        "price": 7690,
+        "image": "\/img_master\/product\/medium\/20180718155341_24771_21_1.jpg?v=247711542179299"
+    },
+    {
+        "id": 155,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK4GX4M1A2400C14R )",
+        "price": 1690,
+        "image": "\/img_master\/product\/medium\/20180718142804_23953_21_1.jpg?v=239531542179209"
+    },
+    {
+        "id": 156,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK4GX4M1A2400C14 )",
+        "price": 1690,
+        "image": "\/img_master\/product\/medium\/20180718142655_23952_21_1.jpg?v=239521542179209"
+    },
+    {
+        "id": 157,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LED\/BLUE LED ( CMU16GX4M2C3000C15B )",
+        "price": 7590,
+        "image": "\/img_master\/product\/medium\/20180718154755_23652_21_1.jpg?v=236521542179299"
+    },
+    {
+        "id": 158,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LED\/BLUE LED ( CMU16GX4M2C3200C16B )",
+        "price": 7790,
+        "image": "\/img_master\/product\/medium\/20180921172536_23589_24_1.png?v=235891542179310"
+    },
+    {
+        "id": 159,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  TEAM DARK BLACK",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180718112339_23026_21_1.jpg?v=230261542179110"
+    },
+    {
+        "id": 160,
+        "name": "16GB ( 16GBx1 ) DDR4\/2133 RAM PC  KINGSTON HyperX FURY BLACK ( HX421C14FB\/16 )",
+        "price": 5890,
+        "image": "\/img_master\/product\/medium\/20180718161701_22690_21_1.jpg?v=226901542179196"
+    },
+    {
+        "id": 161,
+        "name": "16GB ( 16GBx1 ) DDR4\/2400 RAM PC  KINGSTON VALUE RAM ( KVR24N17D8\/16 )",
+        "price": 5290,
+        "image": "\/img_master\/product\/medium\/20180718142453_22679_21_1.jpg?v=226791542179209"
+    },
+    {
+        "id": 162,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  KINGSTON VALUE RAM ( KVR24N17S8\/8 )",
+        "price": 2450,
+        "image": "\/img_master\/product\/medium\/20180718142257_22678_21_1.jpg?v=226781542179209"
+    },
+    {
+        "id": 163,
+        "name": "16GB ( 8GBx2 ) DDR4\/2133 RAM PC  G.SKILL RIPJAWS 4 BLUE ( F4-2133C15D-16GRB )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718161332_22417_21_1.jpg?v=224171542179196"
+    },
+    {
+        "id": 164,
+        "name": "8GB ( 4GBx2 ) DDR4\/2133 RAM PC  G.SKILL RIPJAWS 4 BLUE ( F4-2133C15D-8GRB )",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180918172249_22416_24_1.png?v=224161542179196"
+    },
+    {
+        "id": 165,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LED\/WHITE LED ( CMU16GX4M2C3000C15 )",
+        "price": 7590,
+        "image": "\/img_master\/product\/medium\/20180718154553_22299_21_1.jpg?v=222991542179299"
+    },
+    {
+        "id": 166,
+        "name": "32GB ( 16GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK32GX4M2B3000C15 )",
+        "price": 14500,
+        "image": "\/img_master\/product\/medium\/20180718154106_21494_21_1.jpg?v=214941542179299"
+    },
+    {
+        "id": 167,
+        "name": "8GB ( 8GBx1 ) DDR4\/2133 RAM PC  CORSAIR VALUE SELECT ( CMV8GX4M1A2133C15 )",
+        "price": 3690,
+        "image": "\/img_master\/product\/medium\/20180718161310_21479_21_1.jpg?v=214791542179196"
+    },
+    {
+        "id": 168,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FB2K2\/16 )",
+        "price": 5490,
+        "image": "\/img_master\/product\/medium\/20180718142113_21407_21_1.jpg?v=214071542179209"
+    },
+    {
+        "id": 169,
+        "name": "16GB ( 8GBx2 ) DDR4\/2133 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2133C15D-16GRR )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718161250_21280_21_1.jpg?v=212801542179196"
+    },
+    {
+        "id": 170,
+        "name": "8GB ( 8GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FB2\/8 )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180716131912_21256_11963954.png?v=212561542179209"
+    },
+    {
+        "id": 171,
+        "name": "2GB ( 2GBx1 , 4 chips ) DDR3\/1600 RAM PC  KINGSTON VALUE RAM ( KVR16N11S6\/2 )",
+        "price": 680,
+        "image": "\/img_master\/product\/medium\/20180718111737_21240_21_1.jpg?v=212401542179110"
+    },
+    {
+        "id": 172,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z ( F4-3000C15D-16GTZB )",
+        "price": 7490,
+        "image": "\/img_master\/product\/medium\/20180718153918_21086_21_1.jpg?v=210861542179299"
+    },
+    {
+        "id": 173,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z ( F4-3200C16D-16GTZ )",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180718164307_21085_21_1.jpg?v=210851542179310"
+    },
+    {
+        "id": 174,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z ( F4-3200C16D-16GTZB )",
+        "price": 6990,
+        "image": "\/img_master\/product\/medium\/20180918171434_21084_24_1.png?v=210841542179310"
+    },
+    {
+        "id": 175,
+        "name": "16GB ( 8GBx2 ) DDR4\/3600 RAM PC  G.SKILL TRIDENT Z ( F4-3600C17D-16GTZ )",
+        "price": 8900,
+        "image": "\/img_master\/product\/medium\/20180718170014_21083_21_1.jpg?v=210831542179333"
+    },
+    {
+        "id": 176,
+        "name": "32GB ( 16GBx2 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z ( F4-3000C15D-32GTZ )",
+        "price": 12900,
+        "image": "\/img_master\/product\/medium\/20180718153727_21078_21_1.jpg?v=210781542179299"
+    },
+    {
+        "id": 177,
+        "name": "8GB ( 4GBx2 ) DDR4\/3000 RAM PC  G.SKILL TRIDENT Z ( F4-3000C15D-8GTZB )",
+        "price": 4190,
+        "image": "\/img_master\/product\/medium\/20180718153235_21076_21_1.jpg?v=210761542179299"
+    },
+    {
+        "id": 178,
+        "name": "8GB ( 4GBx2 ) DDR4\/3200 RAM PC  G.SKILL TRIDENT Z ( F4-3200C16D-8GTZB )",
+        "price": 4190,
+        "image": "\/img_master\/product\/medium\/20180718164007_21075_21_1.jpg?v=210751542179310"
+    },
+    {
+        "id": 179,
+        "name": "4 GB ( 4GBx1 ) DDR3L\/1600 RAM PC  KINGSTON VALUE RAM ( KVR16LN11\/4 )",
+        "price": 1290,
+        "image": "\/img_master\/product\/medium\/20180718110952_20824_21_1.jpg?v=208241542179110"
+    },
+    {
+        "id": 180,
+        "name": "8GB ( 8GBx1 ) DDR3L\/1600 RAM PC  KINGSTON VALUE RAM ( KVR16LN11\/8 )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180718110311_20808_21_1.jpg?v=208081542179110"
+    },
+    {
+        "id": 181,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M2A2400C14 )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718142027_20560_21_1.jpg?v=205601542179209"
+    },
+    {
+        "id": 182,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK16GX4M2A2400C14R )",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180718141959_20559_21_1.jpg?v=205591542179209"
+    },
+    {
+        "id": 183,
+        "name": "8GB ( 4GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK8GX4M2B3000C15 )",
+        "price": 3890,
+        "image": "\/img_master\/product\/medium\/20180718152754_20384_21_1.jpg?v=203841542179299"
+    },
+    {
+        "id": 184,
+        "name": "8GB ( 4GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK8GX4M2B3200C16 )",
+        "price": 4190,
+        "image": "\/img_master\/product\/medium\/20180718163925_20383_21_1.jpg?v=203831542179310"
+    },
+    {
+        "id": 185,
+        "name": "8GB ( 4GBx2 ) DDR4\/2666 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK8GX4M2A2666C16R )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180718145932_20107_21_1.jpg?v=201071542179224"
+    },
+    {
+        "id": 186,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL RIPJAWS V GUNMETAL GRAY ( F4-3200C16D-16GVGB )",
+        "price": 6380,
+        "image": "\/img_master\/product\/medium\/20180725124622_20013_72_1.jpg?v=200131542179310"
+    },
+    {
+        "id": 187,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  G.SKILL RIPJAWS V BLACK ( F4-3200C16D-16GVKB )",
+        "price": 6380,
+        "image": "\/img_master\/product\/medium\/20180725135553_20010_21_1.jpg?v=200101542179310"
+    },
+    {
+        "id": 188,
+        "name": "8GB ( 4GBx2 ) DDR4\/2133 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2133C15D-8GRR )",
+        "price": 3290,
+        "image": "\/img_master\/product\/medium\/20180718160629_20009_21_1.jpg?v=200091542179196"
+    },
+    {
+        "id": 189,
+        "name": "16GB ( 8GBx2 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2400C15D-16GRR )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180718141943_19963_21_1.jpg?v=199631542179209"
+    },
+    {
+        "id": 190,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M2B3000C15 )",
+        "price": 6890,
+        "image": "\/img_master\/product\/medium\/20180718152652_19759_21_1.jpg?v=197591542179299"
+    },
+    {
+        "id": 191,
+        "name": "32GB ( 8GBx4 ) DDR4\/2133 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2133C15Q-32GRR )",
+        "price": 12800,
+        "image": "\/img_master\/product\/medium\/20180718160605_19311_21_1.jpg?v=193111542179196"
+    },
+    {
+        "id": 192,
+        "name": "8GB ( 4GBx2 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FBK2\/8 )",
+        "price": 2750,
+        "image": "\/img_master\/product\/medium\/20180718141854_19254_21_1.jpg?v=192541542179209"
+    },
+    {
+        "id": 193,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK16GX4M2B3200C16 )",
+        "price": 7390,
+        "image": "\/img_master\/product\/medium\/20180918170701_18981_24_1.png?v=189811542179310"
+    },
+    {
+        "id": 194,
+        "name": "8GB ( 4GBx2 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX BLACK ( CMK8GX4M2A2400C14 )",
+        "price": 2950,
+        "image": "\/img_master\/product\/medium\/20180718141441_18980_21_1.jpg?v=189801542179209"
+    },
+    {
+        "id": 195,
+        "name": "8GB ( 4GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK8GX4M2B3200C16R )",
+        "price": 4190,
+        "image": "\/img_master\/product\/medium\/20180718163436_18978_21_1.jpg?v=189781542179310"
+    },
+    {
+        "id": 196,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  G.SKILL RIPJAWS 4 BLACK ( F4-3000C15D-16GRK )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718152412_18970_21_1.jpg?v=189701542179299"
+    },
+    {
+        "id": 197,
+        "name": "8GB ( 4GBx2 ) DDR4\/2400 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK8GX4M2A2400C14R )",
+        "price": 2950,
+        "image": "\/img_master\/product\/medium\/20180718141133_18962_21_1.jpg?v=189621542179209"
+    },
+    {
+        "id": 198,
+        "name": "4GB ( 4GBx1 ) DDR4\/2400 RAM PC  KINGSTON HyperX FURY BLACK ( HX424C15FB\/4 )",
+        "price": 1450,
+        "image": "\/img_master\/product\/medium\/20180917152908_18923_24_1.png?v=189231542179209"
+    },
+    {
+        "id": 199,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK16GX4M2B3000C15R )",
+        "price": 6890,
+        "image": "\/img_master\/product\/medium\/20180716140905_18899_11963954.png?v=188991542179299"
+    },
+    {
+        "id": 200,
+        "name": "16GB ( 8GBx2 ) DDR4\/3200 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK16GX4M2B3200C16R )",
+        "price": 7390,
+        "image": "\/img_master\/product\/medium\/20180718163205_18872_21_1.jpg?v=188721542179310"
+    },
+    {
+        "id": 201,
+        "name": "8GB ( 4GBx2 ) DDR4\/3000 RAM PC  CORSAIR VENGEANCE LPX RED ( CMK8GX4M2B3000C15R )",
+        "price": 3890,
+        "image": "\/img_master\/product\/medium\/20180718151521_18869_21_1.jpg?v=188691542179299"
+    },
+    {
+        "id": 202,
+        "name": "16GB ( 8GBx2 ) DDR4\/3000 RAM PC  G.SKILL RIPJAWS 4 BLUE ( F4-3000C15D-16GRBB )",
+        "price": 5990,
+        "image": "\/img_master\/product\/medium\/20180718151426_18452_21_1.jpg?v=184521542179299"
+    },
+    {
+        "id": 203,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY WHITE ( HX316C10FWK2\/8 )",
+        "price": 2650,
+        "image": "\/img_master\/product\/medium\/20180718104403_17059_21_1.jpg?v=170591542179110"
+    },
+    {
+        "id": 204,
+        "name": "8GB ( 8GBx1 ) DDR3\/1600 RAM PC  KINGSTON VALUE RAM ( KVR16N11\/8 )",
+        "price": 2390,
+        "image": "\/img_master\/product\/medium\/20180718102809_16878_21_1.jpg?v=168781542179110"
+    },
+    {
+        "id": 205,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 BLACK ( F4-2400C15Q-32GRK )",
+        "price": 12900,
+        "image": "\/img_master\/product\/medium\/20180917160756_16755_24_1.png?v=167551542179209"
+    },
+    {
+        "id": 206,
+        "name": "32GB ( 8GBx4 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2400C15Q-32GRR )",
+        "price": 11900,
+        "image": "\/img_master\/product\/medium\/20180718140357_16754_21_1.jpg?v=167541542179209"
+    },
+    {
+        "id": 207,
+        "name": "8GB ( 4GBx2 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2400C15D-8GRR )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180718140329_16668_21_1.jpg?v=166681542179209"
+    },
+    {
+        "id": 208,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLACK ( HX316C10FBK2\/8 )",
+        "price": 2650,
+        "image": "\/img_master\/product\/medium\/20180718102158_16141_21_1.jpg?v=161411542179110"
+    },
+    {
+        "id": 209,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLUE ( HX316C10FK2\/8 )",
+        "price": 2650,
+        "image": "\/img_master\/product\/medium\/20180718101938_16015_21_1.jpg?v=160151542179110"
+    },
+    {
+        "id": 210,
+        "name": "16GB ( 4GBx4 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 BLACK ( F4-2400C15Q-16GRK )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180917155336_15184_24_1.png?v=151841542179209"
+    },
+    {
+        "id": 211,
+        "name": "16GB ( 4GBx4 ) DDR4\/2400 RAM PC  G.SKILL RIPJAWS 4 RED ( F4-2400C15Q-16GRR )",
+        "price": 5690,
+        "image": "\/img_master\/product\/medium\/20180718135319_15183_21_1.jpg?v=151831542179209"
+    },
+    {
+        "id": 212,
+        "name": "8GB ( 4GBx2 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY RED ( HX316C10FRK2\/8 )",
+        "price": 2650,
+        "image": "\/img_master\/product\/medium\/20180718101623_14854_21_1.jpg?v=148541542179110"
+    },
+    {
+        "id": 213,
+        "name": "8GB ( 8GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY WHITE ( HX316C10FW\/8 )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180919192220_13324_21_1.jpg?v=133241542179110"
+    },
+    {
+        "id": 214,
+        "name": "4GB ( 4GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY WHITE ( HX316C10FW\/4 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180718101031_13323_21_1.jpg?v=133231542179110"
+    },
+    {
+        "id": 215,
+        "name": "8GB ( 8GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLACK ( HX316C10FB\/8 )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180718100732_13322_21_1.jpg?v=133221542179110"
+    },
+    {
+        "id": 216,
+        "name": "4GB ( 4GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLACK ( HX316C10FB\/4 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180718100628_13321_21_1.jpg?v=133211542179110"
+    },
+    {
+        "id": 217,
+        "name": "8GB ( 8GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY RED ( HX316C10FR\/8 )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180718100353_13320_21_1.jpg?v=133201542179110"
+    },
+    {
+        "id": 218,
+        "name": "4GB ( 4GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY RED ( HX316C10FR\/4 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180718095917_13319_21_1.jpg?v=133191542179110"
+    },
+    {
+        "id": 219,
+        "name": "8GB ( 8GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLUE ( HX316C10F\/8 )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180718095608_13318_21_1.jpg?v=133181542179110"
+    },
+    {
+        "id": 220,
+        "name": "4GB ( 4GBx1 ) DDR3\/1600 RAM PC  KINGSTON HyperX FURY BLUE ( HX316C10F\/4 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180718095548_13317_21_1.jpg?v=133171542179110"
+    },
+    {
+        "id": 221,
+        "name": "2GB ( 2GBx1 , 4 chips ) DDR3\/1333 RAM PC  KINGSTON VALUE RAM ( KVR13N9S6\/2 )",
+        "price": 720,
+        "image": "\/img_master\/product\/medium\/20180718085945_13316_21_1.jpg?v=133161542178956"
+    },
+    {
+        "id": 222,
+        "name": "4GB ( 4GBx1 ) DDR3\/1333 RAM PC  G.SKILL Aegis ( F3-1333C9S-4GIS )",
+        "price": 1390,
+        "image": "\/img_master\/product\/medium\/20181115173539_12690_24_1.png?v=126901542278154"
+    },
+    {
+        "id": 223,
+        "name": "4GB ( 4GBx1 , 8 chips ) DDR3\/1333 RAM PC  KINGSTON VALUE RAM ( KVR13N9S8\/4 )",
+        "price": 1190,
+        "image": "\/img_master\/product\/medium\/20180718085726_11053_21_1.jpg?v=110531542178956"
+    },
+    {
+        "id": 224,
+        "name": "2GB ( 2GBx1 ) DDR2\/800 RAM PC  G.SKILL VALUE ( F2-6400CL5S-2GBNT )",
+        "price": 1050,
+        "image": "\/img_master\/product\/medium\/20180718085133_10639_21_1.jpg?v=106391542178956"
+    },
+    {
+        "id": 225,
+        "name": "4GB ( 4GBx1 ) DD3\/1600 RAM PC  G.SKILL RIPJAWS ( F3-12800CL9S-4GBRL )",
+        "price": 1290,
+        "image": "\/img_master\/product\/medium\/20180718095131_10549_21_1.jpg?v=105491542179110"
+    },
+    {
+        "id": 226,
+        "name": "8GB ( 8GBx1 ) DDR3\/1333 RAM PC  KINGSTON VALUE RAM ( KVR1333D3N9\/8G )",
+        "price": 2290,
+        "image": "\/img_master\/product\/medium\/20180718155524_8664_21_1.jpg?v=86641542178956"
+    }
+]

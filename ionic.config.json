@@ -1,0 +1,7 @@
+{
+  "name": "onespec",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

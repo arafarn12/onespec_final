@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "2 TB HDD & 500 GB SSD  WD BLACK WD2003FZEX & WD BLUE WDS500G2B0B SATA M.2 2280",
+        "price": 7550,
+        "image": "\/web\/images\/product\/jib-noimage.jpg?v=32320"
+    },
+    {
+        "id": 2,
+        "name": "1 TB HDD & 250 GB SSD  WD BLACK ( WD1003FZEX & WDS250G2X0C M.2 2280 ) PACK GAMING",
+        "price": 4990,
+        "image": "\/img_master\/product\/medium\/2018110110511932073_1.jpg?v=320731542334872"
+    },
+    {
+        "id": 3,
+        "name": "2 TB HDD & 240 GB SSD  WD BLUE ( WD20EZAZ & WDSSD240GB SATA GREEN 3D ) PACK ENTRY",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/2018110110401132072_1.jpg?v=320721542245847"
+    },
+    {
+        "id": 4,
+        "name": "2 TB HDD  SEAGATE BARRACUDA 256MB SATA3 ( ST2000DM008 )",
+        "price": 1950,
+        "image": "\/img_master\/product\/medium\/2018102409223231940_1.png?v=319401542245847"
+    },
+    {
+        "id": 5,
+        "name": "2 TB HDD  WD SATA3 256MB (WD20EZAZ) BLUE",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20181026145308_31937_24_1.png?v=319371542245847"
+    },
+    {
+        "id": 6,
+        "name": "14 TB HDD  SEAGATE SATA3 BARRACUDA PRO ( ST14000DM001 )",
+        "price": 22500,
+        "image": "\/img_master\/product\/medium\/20181020092415_31852_24_1.png?v=318521542245847"
+    },
+    {
+        "id": 7,
+        "name": "6 TB HDD  WD BLACK 7200RPM SATA3 ( WD6003FZBX )",
+        "price": 8890,
+        "image": "\/img_master\/product\/medium\/20180924171310_31613_21_1.jpg?v=316131542245847"
+    },
+    {
+        "id": 8,
+        "name": "12 TB HDD  SEAGATE BARRACUDA Pro 7200RPM SATA3 ( ST12000DM0007 )",
+        "price": 19500,
+        "image": "\/img_master\/product\/medium\/2018083014072131266_1.jpg?v=312661542245847"
+    },
+    {
+        "id": 9,
+        "name": "2 TB HDD & 240 GB SSD  WD BLUE ( WD20EZRZ & WDSSD240GB SATA GREEN 3D ) BOXSET",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180723100442_30368_23_1.jpg?v=303681542245847"
+    },
+    {
+        "id": 10,
+        "name": "1 TB HDD & 120 GB SSD  WD BLUE ( WD10EZEX & WDSSD120GB SATA GREEN 3D ) BOXSET",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20180723100426_29437_23_1.jpg?v=294371542245847"
+    },
+    {
+        "id": 11,
+        "name": "4 TB HDD  WD BLACK 7200RPM SATA3 ( WD4005FZBX )",
+        "price": 7190,
+        "image": "\/img_master\/product\/medium\/20180719150148_29166_21_1.jpg?v=291661542245847"
+    },
+    {
+        "id": 12,
+        "name": "3 TB HDD  SEAGATE BARRACUDA 5400RPM SATA3 ( ST3000DM007 )",
+        "price": 2990,
+        "image": "\/img_master\/product\/medium\/20180719150432_28920_21_1.jpg?v=289201542245847"
+    },
+    {
+        "id": 13,
+        "name": "4 TB HDD  SEAGATE BARRACUDA 5400RPM SATA3 ( ST4000DM004 )",
+        "price": 3890,
+        "image": "\/img_master\/product\/medium\/20180921160339_27695_24_1.png?v=276951542245847"
+    },
+    {
+        "id": 14,
+        "name": "8 TB HDD  SEAGATE BARRACUDA Pro 7200RPM SATA3 ( ST8000DM0004 )",
+        "price": 12400,
+        "image": "\/img_master\/product\/medium\/20180921180055_26199_24_1.png?v=261991542245847"
+    },
+    {
+        "id": 15,
+        "name": "6 TB HDD  SEAGATE BARRACUDA Pro 7200RPM SATA3 ( ST6000DM004 )",
+        "price": 9790,
+        "image": "\/img_master\/product\/medium\/20180719154548_26181_21_1.jpg?v=261811542245847"
+    },
+    {
+        "id": 16,
+        "name": "10 TB HDD  SEAGATE BARRACUDA PRO 256MB ( ST10000DM0004 )",
+        "price": 16900,
+        "image": "\/img_master\/product\/medium\/20180921155152_25003_24_1.png?v=250031542245847"
+    },
+    {
+        "id": 17,
+        "name": "1 TB SSHD (\u0e2e\u0e32\u0e23\u0e4c\u0e14\u0e14\u0e34\u0e2a\u0e01\u0e4c\u0e44\u0e2e\u0e1a\u0e23\u0e34\u0e14) SEAGATE FIRECUDA 8GB MLC NAND SATA3 ( ST1000DX002 )",
+        "price": 2550,
+        "image": "\/img_master\/product\/medium\/20180802102532_24708_24_1.png?v=247081542245847"
+    },
+    {
+        "id": 18,
+        "name": "2 TB SSHD (\u0e2e\u0e32\u0e23\u0e4c\u0e14\u0e14\u0e34\u0e2a\u0e01\u0e4c\u0e44\u0e2e\u0e1a\u0e23\u0e34\u0e14) SEAGATE FIRECUDA 8GB MLC NAND SATA3 ( ST2000DX002 )",
+        "price": 3450,
+        "image": "\/img_master\/product\/medium\/20180719164414_24701_21_1.jpg?v=247011542245847"
+    },
+    {
+        "id": 19,
+        "name": "1 TB HDD  SEAGATE BARRACUDA 7200RPM SATA3 ( ST1000DM010 )",
+        "price": 1250,
+        "image": "\/img_master\/product\/medium\/20180720092924_23340_21_1.jpg?v=233401542245847"
+    },
+    {
+        "id": 20,
+        "name": "500 GB HDD  SEAGATE BARRACUDA 7200RPM SATA3 ( ST500DM009 )",
+        "price": 1220,
+        "image": "\/img_master\/product\/medium\/20180720093416_23252_21_1.jpg?v=232521542245847"
+    },
+    {
+        "id": 21,
+        "name": "2 TB HDD  SEAGATE BARRACUDA 7200RPM SATA3 ( ST2000DM006 )",
+        "price": 1920,
+        "image": "\/img_master\/product\/medium\/20180720094719_23214_21_1.jpg?v=232141542245847"
+    },
+    {
+        "id": 22,
+        "name": "8 TB HDD  WD GOLD 7200RPM SATA3 ( WD8002FRYZ )",
+        "price": 22400,
+        "image": "\/img_master\/product\/medium\/20180720101013_22249_21_1.jpg?v=222491542245847"
+    },
+    {
+        "id": 23,
+        "name": "500 GB HDD  WD BLUE 7200RPM SATA3 ( WD5000AZLX )",
+        "price": 990,
+        "image": "\/img_master\/product\/medium\/20180720104520_19832_21_1.jpg?v=198321542245847"
+    },
+    {
+        "id": 24,
+        "name": "8 TB HDD  SEAGATE ARCHIVE SATA3 ( ST8000AS0002 )",
+        "price": 9990,
+        "image": "\/img_master\/product\/medium\/20180802103652_19710_24_1.png?v=197101542245847"
+    },
+    {
+        "id": 25,
+        "name": "6 TB HDD  WD BLUE 5400RPM SATA3 ( WD60EZRZ )",
+        "price": 6650,
+        "image": "\/img_master\/product\/medium\/20180720105103_19632_21_1.jpg?v=196321542245847"
+    },
+    {
+        "id": 26,
+        "name": "2 TB HDD  WD BLUE 5400RPM SATA3 ( WD20EZRZ )",
+        "price": 1820,
+        "image": "\/img_master\/product\/medium\/20180720105310_19324_21_1.jpg?v=193241542245847"
+    },
+    {
+        "id": 27,
+        "name": "3 TB HDD  WD BLUE 5400RPM SATA3 ( WD30EZRZ )",
+        "price": 3150,
+        "image": "\/img_master\/product\/medium\/20180725174645_19249_24_1.png?v=192491542245847"
+    },
+    {
+        "id": 28,
+        "name": "4 TB HDD  WD BLUE 5400RPM SATA3 ( WD40EZRZ )",
+        "price": 3990,
+        "image": "\/img_master\/product\/medium\/20180720105718_19015_21_1.jpg?v=190151542245847"
+    },
+    {
+        "id": 29,
+        "name": "1 TB HDD  WD BLACK 7200RPM SATA3 ( WD1003FZEX )",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/20181012111727_16432_21_1.jpg?v=164321542245847"
+    },
+    {
+        "id": 30,
+        "name": "500 GB HDD  TOSHIBA DT01ACA 7200RPM SATA3 ( DT01ACA050 )",
+        "price": 1190,
+        "image": "\/img_master\/product\/medium\/20180720131356_15782_21_1.jpg?v=157821542245847"
+    },
+    {
+        "id": 31,
+        "name": "2 TB HDD  WD BLACK 7200RPM SATA3 ( WD2003FZEX )",
+        "price": 4290,
+        "image": "\/img_master\/product\/medium\/20180720135446_13798_21_1.jpg?v=137981542245847"
+    },
+    {
+        "id": 32,
+        "name": "1 TB HDD  WD BLUE 7200RPM SATA3 ( WD10EZEX )",
+        "price": 1210,
+        "image": "\/img_master\/product\/medium\/20180716133234_12280_11963954.png?v=122801542245847"
+    }
+]

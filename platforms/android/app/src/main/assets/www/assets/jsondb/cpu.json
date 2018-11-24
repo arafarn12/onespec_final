@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "AMD TR4 RYZEN TREADRIPPER 2970WX",
+        "price": 48900,
+        "image": "\/img_master\/product\/medium\/2018110710044832124_1.jpg?v=32124"
+    },
+    {
+        "id": 2,
+        "name": "AMD TR4 RYZEN TREADRIPPER 2920X",
+        "price": 23900,
+        "image": "\/img_master\/product\/medium\/2018110708575032121_1.jpg?v=32121"
+    },
+    {
+        "id": 3,
+        "name": "CPU INTEL 1151 CORE I5 9600K",
+        "price": 11900,
+        "image": "\/img_master\/product\/medium\/2018102009570831923_1.jpg?v=319231540004863"
+    },
+    {
+        "id": 4,
+        "name": "AMD AM4 ATHLON 200GE 3.2 GHz",
+        "price": 1990,
+        "image": "\/img_master\/product\/medium\/20181008095942_31792_23_1.jpg?v=317921538967584"
+    },
+    {
+        "id": 5,
+        "name": "AMD TR4 RYZEN THREADRIPPER 2950X",
+        "price": 33900,
+        "image": "\/img_master\/product\/medium\/2018090616070431331_1.jpg?v=313311536224877"
+    },
+    {
+        "id": 6,
+        "name": "AMD TR4 RYZEN THREADRIPPER 2990WX",
+        "price": 69900,
+        "image": "\/img_master\/product\/medium\/2018080817452230887_1.jpg?v=308871538722027"
+    },
+    {
+        "id": 7,
+        "name": "INTEL 1151 PENTIUM G5400 3.70 GHz",
+        "price": 2590,
+        "image": "\/img_master\/product\/medium\/20180801085649_29596_24_1.png?v=295961533638720"
+    },
+    {
+        "id": 8,
+        "name": "AMD AM4 RYZEN5 2600 3.4 GHz",
+        "price": 6490,
+        "image": "\/img_master\/product\/medium\/20180829144338_29508_24_1.png?v=295081539768249"
+    },
+    {
+        "id": 9,
+        "name": "AMD AM4 RYZEN5 2600X 3.6 GHz",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180731174129_29507_24_1.png?v=295071539768187"
+    },
+    {
+        "id": 10,
+        "name": "AMD AM4 RYZEN7 2700 3.2 GHz",
+        "price": 10800,
+        "image": "\/img_master\/product\/medium\/20180731173821_29506_24_1.png?v=295061539768115"
+    },
+    {
+        "id": 11,
+        "name": "AMD AM4 RYZEN7 2700X 3.7 GHz",
+        "price": 11790,
+        "image": "\/img_master\/product\/medium\/20180724135139_29504_24_1.png?v=295041533639197"
+    },
+    {
+        "id": 12,
+        "name": "AMD AM4 RYZEN5 2400G 3.6 GHz",
+        "price": 5890,
+        "image": "\/img_master\/product\/medium\/20180731173332_28684_24_1.png?v=286841540451375"
+    },
+    {
+        "id": 13,
+        "name": "AMD AM4 RYZEN3 2200G 3.5 GHz",
+        "price": 3550,
+        "image": "\/img_master\/product\/medium\/20180731173054_28683_24_1.png?v=286831540451227"
+    },
+    {
+        "id": 14,
+        "name": "INTEL 2066 CORE I9-7980XE EXTREME 2.6 GHz",
+        "price": 68900,
+        "image": "\/img_master\/product\/medium\/20180801084734_27765_24_1.png?v=277651533639370"
+    },
+    {
+        "id": 15,
+        "name": "INTEL 2066 CORE I9-7960X 2.8 GHz",
+        "price": 58900,
+        "image": "\/img_master\/product\/medium\/20180731170042_27763_24_1.png?v=277631536716914"
+    },
+    {
+        "id": 16,
+        "name": "INTEL 2066 CORE I9-7940X 3.1 GHz",
+        "price": 48900,
+        "image": "\/img_master\/product\/medium\/20180727153401_27762_24_1.png?v=277621533639385"
+    },
+    {
+        "id": 17,
+        "name": "INTEL 1151 CORE I5-8600K 3.60 GHz",
+        "price": 10300,
+        "image": "\/img_master\/product\/medium\/20181115164719_27595_24_1.png?v=275951542275246"
+    },
+    {
+        "id": 18,
+        "name": "AMD AM4 RYZEN3 1200 3.1 GHz",
+        "price": 3990,
+        "image": "\/img_master\/product\/medium\/20181012140837_27426_24_1.png?v=274261541147554"
+    },
+    {
+        "id": 19,
+        "name": "INTEL 1151 CORE I7-8700K 3.7 GHz",
+        "price": 15200,
+        "image": "\/img_master\/product\/medium\/20180801085332_27416_24_1.png?v=274161533636218"
+    },
+    {
+        "id": 20,
+        "name": "INTEL 1151 CORE I3-8100 3.6 GHz",
+        "price": 5590,
+        "image": "\/img_master\/product\/medium\/20180731175536_27411_24_1.png?v=274111533639515"
+    },
+    {
+        "id": 21,
+        "name": "AMD AM4 RYZEN3 1200 3.1 GHz",
+        "price": 2740,
+        "image": "\/img_master\/product\/medium\/20180731172019_26634_24_1.png?v=266341533639702"
+    },
+    {
+        "id": 22,
+        "name": "INTEL 2066 CORE I7-7740X 4.30 GHz",
+        "price": 12400,
+        "image": "\/img_master\/product\/medium\/20180731170901_26339_24_1.png?v=263391533639715"
+    },
+    {
+        "id": 23,
+        "name": "INTEL 2066 CORE I9-7900X 3.30 GHz",
+        "price": 35200,
+        "image": "\/img_master\/product\/medium\/20180823141917_26334_24_1.png?v=263341536716512"
+    },
+    {
+        "id": 24,
+        "name": "AMD AM4 RYZEN5 1600X 3.6 GHz (NO FAN)",
+        "price": 5950,
+        "image": "\/img_master\/product\/medium\/20180725152514_25538_24_1.png?v=255381533639785"
+    },
+    {
+        "id": 25,
+        "name": "AMD AM4 RYZEN5 1400 3.2 GHz",
+        "price": 4290,
+        "image": "\/img_master\/product\/medium\/20180725153851_25535_24_1.png?v=255351533640059"
+    },
+    {
+        "id": 26,
+        "name": "AMD AM4 RYZEN7 1700 3.0 GHz",
+        "price": 7990,
+        "image": "\/img_master\/product\/medium\/20180724134929_24926_24_1.png?v=249261533640072"
+    },
+    {
+        "id": 27,
+        "name": "INTEL 1151 CORE I3-7100 3.9 GHz (KABY LAKE)",
+        "price": 4490,
+        "image": "\/img_master\/product\/medium\/20180726173439_24438_24_1.png?v=244381533640396"
+    },
+    {
+        "id": 28,
+        "name": "INTEL 1151 CORE I5-7400 3.0 GHz",
+        "price": 6790,
+        "image": "\/img_master\/product\/medium\/20180731175005_24436_24_1.png?v=244361536716454"
+    },
+    {
+        "id": 29,
+        "name": "INTEL 1151 CORE I5-7500 3.4 GHz",
+        "price": 7890,
+        "image": "\/img_master\/product\/medium\/20181115131925_24435_24_1.png?v=244351542262786"
+    },
+    {
+        "id": 30,
+        "name": "INTEL 1151 CORE I7-7700 3.6 GHz",
+        "price": 12400,
+        "image": "\/img_master\/product\/medium\/20181106112645_24428_24_1.png?v=244281541478470"
+    }
+]
